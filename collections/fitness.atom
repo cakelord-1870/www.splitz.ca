@@ -1,0 +1,1469 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.splitz.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.splitz.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.splitz.ca/collections/fitness.atom"/>
+  <title>Splitz</title>
+  <updated>2015-05-30T23:26:00-05:00</updated>
+  <author>
+    <name>Splitz</name>
+  </author>
+  <entry>
+    <id>https://www.splitz.ca/products/3598823495</id>
+    <published>2015-05-30T23:26:00-05:00</published>
+    <updated>2015-05-30T23:26:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.splitz.ca/products/kitty-ninja-white-headband"/>
+    <title>Headband- Ski, Bike, Run Kitty Ninja White</title>
+    <s:type>Sport Accessory</s:type>
+    <s:vendor>Splitz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0099/4812/products/headband_white_kitty_ninja.JPG?v=1448771825"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Splitz<br>
+        <strong>Type: </strong>Sport Accessory<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Kitty Ninja Headband in white</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.splitz.ca/products/3598823495</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku>A100/AKN</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.splitz.ca/products/3598768263</id>
+    <published>2015-05-30T23:26:00-05:00</published>
+    <updated>2015-05-30T23:26:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.splitz.ca/products/viking-reflective-headband"/>
+    <title>Headband- Viking</title>
+    <s:type>Sport Accessory</s:type>
+    <s:vendor>Splitz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0099/4812/products/viking_reflective.JPG?v=1448769927"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Splitz<br>
+        <strong>Type: </strong>Sport Accessory<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Viking Reflective Headband in black</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>fitness</s:tag>
+    <s:variant>
+      <id>https://www.splitz.ca/products/3598768263</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku>A100/VIKINGBLACK</s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.splitz.ca/products/1024979521</id>
+    <published>2015-05-30T23:26:00-05:00</published>
+    <updated>2015-05-30T23:26:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.splitz.ca/products/kitty-ninja-headband"/>
+    <title>Headband- Kitty Ninja Pink</title>
+    <s:type>Sport Accessory</s:type>
+    <s:vendor>Splitz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0099/4812/products/headband_pink_kitty_ninja.JPG?v=1448771716"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Splitz<br>
+        <strong>Type: </strong>Sport Accessory<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">High Performance Headband for Sport -Kitty Ninja  in pink</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.splitz.ca/products/1024979521</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku>A100/AKN</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.splitz.ca/products/3598811783</id>
+    <published>2015-05-10T21:13:00-05:00</published>
+    <updated>2015-05-10T21:13:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.splitz.ca/products/celery-green-ninja-headband"/>
+    <title>Headband-Ski, Bike, Run- Ninja Apple Green</title>
+    <s:type>Sport Accessory</s:type>
+    <s:vendor>Splitz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0099/4812/products/CELERY_NINJA.JPG?v=1448771271"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Splitz<br>
+        <strong>Type: </strong>Sport Accessory<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Apple Green Ninja high performance headband designed for the outdoor athlete.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.splitz.ca/products/3598811783</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku>A100/Apple Green Ninja</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.splitz.ca/products/3598808199</id>
+    <published>2015-05-10T21:13:00-05:00</published>
+    <updated>2015-05-10T21:13:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.splitz.ca/products/orange-red-ninja-headband"/>
+    <title>Headband- Ski, Bike, Run- Ninja Orange-Red</title>
+    <s:type>Sport Accessory</s:type>
+    <s:vendor>Splitz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0099/4812/products/ORANGE-RED_NINJA.JPG?v=1448771173"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Splitz<br>
+        <strong>Type: </strong>Sport Accessory<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Orange-Red Ninja high performance headband designed for the outdoor athlete.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>fitness</s:tag>
+    <s:variant>
+      <id>https://www.splitz.ca/products/3598808199</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku>A100/OrangeRedNinja</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.splitz.ca/products/3598799239</id>
+    <published>2015-05-10T21:13:00-05:00</published>
+    <updated>2015-05-10T21:13:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.splitz.ca/products/white-ninja-headband"/>
+    <title>Headband- Ski, Bike, Run- Ninja White</title>
+    <s:type>Sport Accessory</s:type>
+    <s:vendor>Splitz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0099/4812/products/WHITE_NINJA.JPG?v=1448771037"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Splitz<br>
+        <strong>Type: </strong>Sport Accessory<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">White Ninja high performance headband designed for the outdoor athlete.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>fitness</s:tag>
+    <s:variant>
+      <id>https://www.splitz.ca/products/3598799239</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku>A100/WhiteNinja</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.splitz.ca/products/3598789639</id>
+    <published>2015-05-10T21:13:00-05:00</published>
+    <updated>2015-05-10T21:13:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.splitz.ca/products/two-hearts-headband"/>
+    <title>Headband- Ski, Bike, Run- Black Two-Hearts</title>
+    <s:type>accessories</s:type>
+    <s:vendor>Splitz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0099/4812/products/two_hearts_headband.JPG?v=1448770862"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Splitz<br>
+        <strong>Type: </strong>accessories<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Two Hearts high performance headband designed for the outdoor athlete.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.splitz.ca/products/3598789639</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku>A100-2HEARTS</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.splitz.ca/products/710983617</id>
+    <published>2015-05-10T21:13:00-05:00</published>
+    <updated>2015-05-10T21:13:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.splitz.ca/products/flower-power-headband"/>
+    <title>Flower Power Headband</title>
+    <s:type>Sport Accessory</s:type>
+    <s:vendor>Splitz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0099/4812/products/image.jpg?v=1431310606"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Splitz<br>
+        <strong>Type: </strong>Sport Accessory<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Flower Power high performance headband designed for the outdoor athlete.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>headbands</s:tag>
+    <s:variant>
+      <id>https://www.splitz.ca/products/710983617</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku>A100 FP</s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.splitz.ca/products/3598843591</id>
+    <published>2013-11-01T19:25:00-05:00</published>
+    <updated>2013-11-01T19:25:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.splitz.ca/products/snowflake-concord"/>
+    <title>Headband - Snowflake Concord</title>
+    <s:type>accessories</s:type>
+    <s:vendor>Splitz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0099/4812/products/CONCORD_WHITE_SNOWFLAKE.JPG?v=1448772638"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Splitz<br>
+        <strong>Type: </strong>accessories<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Outdoor high performance sport headband designed to hold in place over your forehead and ears.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>fitness</s:tag>
+    <s:variant>
+      <id>https://www.splitz.ca/products/3598843591</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku>A200-CONCORD</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.splitz.ca/products/3598841479</id>
+    <published>2013-11-01T19:25:00-05:00</published>
+    <updated>2013-11-01T19:25:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.splitz.ca/products/snowflake-white"/>
+    <title>Headband - Snowflake White</title>
+    <s:type>accessories</s:type>
+    <s:vendor>Splitz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0099/4812/products/headband_white_silver_snowflake.JPG?v=1448772559"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Splitz<br>
+        <strong>Type: </strong>accessories<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Outdoor high performance sport headband designed to hold in place over your forehead and ears.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>fitness</s:tag>
+    <s:variant>
+      <id>https://www.splitz.ca/products/3598841479</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku>A200-SNOWWHITE</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.splitz.ca/products/3598839495</id>
+    <published>2013-11-01T19:25:00-05:00</published>
+    <updated>2013-11-01T19:25:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.splitz.ca/products/snowflake-fushia"/>
+    <title>Headband - Snowflake Fuchsia</title>
+    <s:type>accessories</s:type>
+    <s:vendor>Splitz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0099/4812/products/FUSHIA_WHITE_SNOWFLAKE.JPG?v=1448772467"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Splitz<br>
+        <strong>Type: </strong>accessories<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Outdoor high performance sport headband designed to hold in place over your forehead and ears.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>fitness</s:tag>
+    <s:variant>
+      <id>https://www.splitz.ca/products/3598839495</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku>A200-SNOWFUSHIA</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.splitz.ca/products/170272202</id>
+    <published>2013-11-01T19:25:00-05:00</published>
+    <updated>2013-11-01T19:25:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.splitz.ca/products/snowflake-headband-blue"/>
+    <title>Headband - Snowflake Light Blue</title>
+    <s:type>accessories</s:type>
+    <s:vendor>Splitz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0099/4812/products/P1070370.jpg?v=1383353460"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Splitz<br>
+        <strong>Type: </strong>accessories<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Outdoor high performance sport headband designed to hold in place over your forehead and ears.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>fitness</s:tag>
+    <s:variant>
+      <id>https://www.splitz.ca/products/170272202</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku>A200-SNOW blue</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.splitz.ca/products/167859834</id>
+    <published>2013-10-25T18:12:00-05:00</published>
+    <updated>2013-10-25T18:12:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.splitz.ca/products/banana-bands"/>
+    <title>Headband- ski, bike, run</title>
+    <s:type>Sport Accessory</s:type>
+    <s:vendor>Splitz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0099/4812/products/P1070036.jpg?v=1480725186"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Splitz<br>
+        <strong>Type: </strong>Sport Accessory<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Outdoor high performance sport headband designed to hold in place over your forehead and ears.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>fitness</s:tag>
+    <s:variant>
+      <id>https://www.splitz.ca/products/167859834</id>
+      <title>Black</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku>A200S2</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/167859834</id>
+      <title>Apple Green</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku>A200S11</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/167859834</id>
+      <title>Orange-Red</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku>A200S4</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/167859834</id>
+      <title>Electric Blue</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku>A200S12</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/167859834</id>
+      <title>Navy Blue</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku>A200S3</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/167859834</id>
+      <title>Fushia</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku>A200S10</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/167859834</id>
+      <title>Aqua</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku>A200S13</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.splitz.ca/products/154446633</id>
+    <published>2013-08-30T14:39:00-05:00</published>
+    <updated>2013-08-30T14:39:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.splitz.ca/products/roll-down-black-shea-yoga-pant"/>
+    <title>Yoga Pant- Roll Down Waistband</title>
+    <s:type>Pant</s:type>
+    <s:vendor>Splitz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0099/4812/products/P1070186.jpg?v=1377891825"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Splitz<br>
+        <strong>Type: </strong>Pant<br>
+        <strong>Price: </strong>
+            35.00 - 50.00
+            <a href="https://www.splitz.ca/products/roll-down-black-shea-yoga-pant">(10 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Yoga Pant with roll down waistband made of high performance nylon/lycra fabric.</p>
+<p>Other Colour options (Navy, Chocolate, White, Red, Apple, Grey, &amp; Concord available upon request.</p>
+<p>Email or call for Team options.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>gymnastics</s:tag>
+    <s:tag>Pant</s:tag>
+    <s:tag>volleyball</s:tag>
+    <s:variant>
+      <id>https://www.splitz.ca/products/154446633</id>
+      <title>4</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>SP845/C4</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/154446633</id>
+      <title>6</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>SP845/C6</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/154446633</id>
+      <title>8</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>SP845/C8</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/154446633</id>
+      <title>10</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>SP845/C10</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/154446633</id>
+      <title>12</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>SP845/C12</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/154446633</id>
+      <title>XS</title>
+      <s:price currency="CAD">50.00</s:price>
+      <s:sku>SP845/AXS</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/154446633</id>
+      <title>S</title>
+      <s:price currency="CAD">50.00</s:price>
+      <s:sku>SP845/AS</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/154446633</id>
+      <title>M</title>
+      <s:price currency="CAD">50.00</s:price>
+      <s:sku>SP845/AM</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/154446633</id>
+      <title>L</title>
+      <s:price currency="CAD">50.00</s:price>
+      <s:sku>SP845/AL</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/154446633</id>
+      <title>XL</title>
+      <s:price currency="CAD">50.00</s:price>
+      <s:sku>SP845/AXL</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.splitz.ca/products/101020702</id>
+    <published>2012-08-13T16:46:00-05:00</published>
+    <updated>2012-08-13T16:46:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.splitz.ca/products/spanky-9"/>
+    <title>Spanky Lime Mystique</title>
+    <s:type>Shorts</s:type>
+    <s:vendor>Splitz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0099/4812/products/P1070122.jpg?v=1377883322"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Splitz<br>
+        <strong>Type: </strong>Shorts<br>
+        <strong>Price: </strong>
+            25.00 - 28.00
+            <a href="https://www.splitz.ca/products/spanky-9">(10 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gym &amp; volleyball shorts, Lime Mystique fabric.   </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>gymnastics</s:tag>
+    <s:tag>Metallic</s:tag>
+    <s:tag>shorts</s:tag>
+    <s:variant>
+      <id>https://www.splitz.ca/products/101020702</id>
+      <title>Size 4</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku>SP800714</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/101020702</id>
+      <title>6</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku>SP800716</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/101020702</id>
+      <title>8</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku>SP800718</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/101020702</id>
+      <title>10</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku>SP8007110</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/101020702</id>
+      <title>12</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku>SP8007112</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/101020702</id>
+      <title>XS</title>
+      <s:price currency="CAD">28.00</s:price>
+      <s:sku>SP80071XS</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/101020702</id>
+      <title>S</title>
+      <s:price currency="CAD">28.00</s:price>
+      <s:sku>SP80071S</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/101020702</id>
+      <title>M</title>
+      <s:price currency="CAD">28.00</s:price>
+      <s:sku>SP80071M</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/101020702</id>
+      <title>L</title>
+      <s:price currency="CAD">28.00</s:price>
+      <s:sku>SP80071L</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/101020702</id>
+      <title>XL</title>
+      <s:price currency="CAD">28.00</s:price>
+      <s:sku>SP80071XL</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.splitz.ca/products/101019272</id>
+    <published>2012-08-13T16:46:00-05:00</published>
+    <updated>2012-08-13T16:46:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.splitz.ca/products/spanky-8"/>
+    <title>Spanky Purple Mystique</title>
+    <s:type>Shorts</s:type>
+    <s:vendor>Splitz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0099/4812/products/P1070134.jpg?v=1377882672"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Splitz<br>
+        <strong>Type: </strong>Shorts<br>
+        <strong>Price: </strong>
+            28.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gym &amp; volleyball shorts, Purple Mystique fabric.   </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>gymnastics</s:tag>
+    <s:tag>Metallic</s:tag>
+    <s:tag>shorts</s:tag>
+    <s:variant>
+      <id>https://www.splitz.ca/products/101019272</id>
+      <title>XS</title>
+      <s:price currency="CAD">28.00</s:price>
+      <s:sku>SP80063XS</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.splitz.ca/products/101018486</id>
+    <published>2012-08-13T16:46:00-05:00</published>
+    <updated>2012-08-13T16:46:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.splitz.ca/products/spanky-7"/>
+    <title>Spanky Navy Blue Mystique</title>
+    <s:type>Shorts</s:type>
+    <s:vendor>Splitz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0099/4812/products/P1070128.jpg?v=1377883602"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Splitz<br>
+        <strong>Type: </strong>Shorts<br>
+        <strong>Price: </strong>
+            25.00 - 28.00
+            <a href="https://www.splitz.ca/products/spanky-7">(10 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gym &amp; volleyball shorts, Navy Blue Mystique fabric.   </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>gymnastics</s:tag>
+    <s:tag>Metallic</s:tag>
+    <s:tag>shorts</s:tag>
+    <s:variant>
+      <id>https://www.splitz.ca/products/101018486</id>
+      <title>Size 4</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku>SP800AM4</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/101018486</id>
+      <title>6</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku>SP800AM6</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/101018486</id>
+      <title>8</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku>SP800AM8</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/101018486</id>
+      <title>10</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku>SP80AM10</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/101018486</id>
+      <title>12</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku>SP800AM12</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/101018486</id>
+      <title>XS</title>
+      <s:price currency="CAD">28.00</s:price>
+      <s:sku>SP800AMXS</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/101018486</id>
+      <title>S</title>
+      <s:price currency="CAD">28.00</s:price>
+      <s:sku>SP800AMS</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/101018486</id>
+      <title>M</title>
+      <s:price currency="CAD">28.00</s:price>
+      <s:sku>SP800AMM</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/101018486</id>
+      <title>L</title>
+      <s:price currency="CAD">28.00</s:price>
+      <s:sku>SP800AML</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/101018486</id>
+      <title>XL</title>
+      <s:price currency="CAD">28.00</s:price>
+      <s:sku>SP800AMXL</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.splitz.ca/products/101015674</id>
+    <published>2012-08-13T16:46:00-05:00</published>
+    <updated>2012-08-13T16:46:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.splitz.ca/products/spanky-6"/>
+    <title>Spanky Fuschia Mystique</title>
+    <s:type>Shorts</s:type>
+    <s:vendor>Splitz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0099/4812/products/P1070080.jpg?v=1377879726"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Splitz<br>
+        <strong>Type: </strong>Shorts<br>
+        <strong>Price: </strong>
+            25.00 - 28.00
+            <a href="https://www.splitz.ca/products/spanky-6">(10 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gym &amp; volleyball shorts,  Fuschia Mystique fabric.   </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>shorts</s:tag>
+    <s:variant>
+      <id>https://www.splitz.ca/products/101015674</id>
+      <title>Size 4</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku>SP800AO4</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/101015674</id>
+      <title>6</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku>SP800AO6</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/101015674</id>
+      <title>8</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku>SP800AO8</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/101015674</id>
+      <title>10</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku>SP80AO10</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/101015674</id>
+      <title>12</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku>SP800AO12</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/101015674</id>
+      <title>XS</title>
+      <s:price currency="CAD">28.00</s:price>
+      <s:sku>SP800AOXS</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/101015674</id>
+      <title>S</title>
+      <s:price currency="CAD">28.00</s:price>
+      <s:sku>SP800AOS</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/101015674</id>
+      <title>M</title>
+      <s:price currency="CAD">28.00</s:price>
+      <s:sku>SP800AOM</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/101015674</id>
+      <title>L</title>
+      <s:price currency="CAD">28.00</s:price>
+      <s:sku>SP800AOL</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/101015674</id>
+      <title>XL</title>
+      <s:price currency="CAD">28.00</s:price>
+      <s:sku>SP800AOXL</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.splitz.ca/products/101015084</id>
+    <published>2012-08-13T16:46:00-05:00</published>
+    <updated>2012-08-13T16:46:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.splitz.ca/products/spanky-5"/>
+    <title>Spanky Lilac Mystique</title>
+    <s:type>Shorts</s:type>
+    <s:vendor>Splitz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0099/4812/products/P1070118.jpg?v=1377882347"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Splitz<br>
+        <strong>Type: </strong>Shorts<br>
+        <strong>Price: </strong>
+            25.00 - 28.00
+            <a href="https://www.splitz.ca/products/spanky-5">(10 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gym &amp; volleyball shorts, Lilac Mystique fabric.   </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>gymnastics</s:tag>
+    <s:tag>Metallic</s:tag>
+    <s:tag>shorts</s:tag>
+    <s:variant>
+      <id>https://www.splitz.ca/products/101015084</id>
+      <title>Size 4</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku>SP800AQ4</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/101015084</id>
+      <title>6</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku>SP800AQ6</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/101015084</id>
+      <title>8</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku>SP800AQ8</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/101015084</id>
+      <title>10</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku>SP80AQ10</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/101015084</id>
+      <title>12</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku>SP800AQ12</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/101015084</id>
+      <title>XS</title>
+      <s:price currency="CAD">28.00</s:price>
+      <s:sku>SP800AQXS</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/101015084</id>
+      <title>S</title>
+      <s:price currency="CAD">28.00</s:price>
+      <s:sku>SP800AQS</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/101015084</id>
+      <title>M</title>
+      <s:price currency="CAD">28.00</s:price>
+      <s:sku>SP800AQM</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/101015084</id>
+      <title>L</title>
+      <s:price currency="CAD">28.00</s:price>
+      <s:sku>SP800AQL</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/101015084</id>
+      <title>XL</title>
+      <s:price currency="CAD">28.00</s:price>
+      <s:sku>SP800AQXL</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.splitz.ca/products/101010922</id>
+    <published>2012-08-13T16:46:00-05:00</published>
+    <updated>2012-08-13T16:46:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.splitz.ca/products/spanky-3"/>
+    <title>Spanky Emerald Mystique</title>
+    <s:type>Shorts</s:type>
+    <s:vendor>Splitz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0099/4812/products/008.jpg?v=1345667810"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Splitz<br>
+        <strong>Type: </strong>Shorts<br>
+        <strong>Price: </strong>
+            25.00 - 28.00
+            <a href="https://www.splitz.ca/products/spanky-3">(10 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gym &amp; volleyball shorts, Emerald Mystique fabric.   </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>shorts</s:tag>
+    <s:variant>
+      <id>https://www.splitz.ca/products/101010922</id>
+      <title>Size 4</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku>SP800684</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/101010922</id>
+      <title>6</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku>SP800686</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/101010922</id>
+      <title>8</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku>SP800688</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/101010922</id>
+      <title>10</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku>SP806810</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/101010922</id>
+      <title>12</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku>SP8006812</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/101010922</id>
+      <title>XS</title>
+      <s:price currency="CAD">28.00</s:price>
+      <s:sku>SP80068XS</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/101010922</id>
+      <title>S</title>
+      <s:price currency="CAD">28.00</s:price>
+      <s:sku>SP80068S</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/101010922</id>
+      <title>M</title>
+      <s:price currency="CAD">28.00</s:price>
+      <s:sku>SP80068M</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/101010922</id>
+      <title>L</title>
+      <s:price currency="CAD">28.00</s:price>
+      <s:sku>SP80068L</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/101010922</id>
+      <title>XL</title>
+      <s:price currency="CAD">28.00</s:price>
+      <s:sku>SP80068XL</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.splitz.ca/products/101009886</id>
+    <published>2012-08-13T16:46:00-05:00</published>
+    <updated>2012-08-13T16:46:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.splitz.ca/products/spanky-2"/>
+    <title>Spanky Kelly Green Mystique</title>
+    <s:type>Shorts</s:type>
+    <s:vendor>Splitz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0099/4812/products/P1070102.jpg?v=1377881437"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Splitz<br>
+        <strong>Type: </strong>Shorts<br>
+        <strong>Price: </strong>
+            25.00 - 28.00
+            <a href="https://www.splitz.ca/products/spanky-2">(10 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gym &amp; volleyball shorts, Kelly Green Mystique fabric.   </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>gymnastics</s:tag>
+    <s:tag>Metallic</s:tag>
+    <s:tag>shorts</s:tag>
+    <s:variant>
+      <id>https://www.splitz.ca/products/101009886</id>
+      <title>Size 4</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku>SP800BB4</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/101009886</id>
+      <title>6</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku>SP800BB6</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/101009886</id>
+      <title>8</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku>SP800BB8</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/101009886</id>
+      <title>10</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku>SP800BB10</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/101009886</id>
+      <title>12</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku>SP800BB12</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/101009886</id>
+      <title>XS</title>
+      <s:price currency="CAD">28.00</s:price>
+      <s:sku>SP800BBXS</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/101009886</id>
+      <title>S</title>
+      <s:price currency="CAD">28.00</s:price>
+      <s:sku>SP800BBS</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/101009886</id>
+      <title>M</title>
+      <s:price currency="CAD">28.00</s:price>
+      <s:sku>SP800BBM</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/101009886</id>
+      <title>L</title>
+      <s:price currency="CAD">28.00</s:price>
+      <s:sku>SP800BBL</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/101009886</id>
+      <title>XL</title>
+      <s:price currency="CAD">28.00</s:price>
+      <s:sku>SP800BBXL</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.splitz.ca/products/101009140</id>
+    <published>2012-08-13T16:46:00-05:00</published>
+    <updated>2012-08-13T16:46:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.splitz.ca/products/spanky-1"/>
+    <title>Spanky Yellow Mystique</title>
+    <s:type>Shorts</s:type>
+    <s:vendor>Splitz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0099/4812/products/P1070086.jpg?v=1377886023"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Splitz<br>
+        <strong>Type: </strong>Shorts<br>
+        <strong>Price: </strong>
+            25.00 - 28.00
+            <a href="https://www.splitz.ca/products/spanky-1">(10 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gym &amp; volleyball shorts, Yellow Mystique fabric.   </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>gymnastics</s:tag>
+    <s:tag>Metallic</s:tag>
+    <s:tag>shorts</s:tag>
+    <s:variant>
+      <id>https://www.splitz.ca/products/101009140</id>
+      <title>Size 4</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku>SP800644</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/101009140</id>
+      <title>6</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku>SP800646</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/101009140</id>
+      <title>8</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku>SP800648</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/101009140</id>
+      <title>10</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku>SP8006410</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/101009140</id>
+      <title>12</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku>SP8006412</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/101009140</id>
+      <title>XS</title>
+      <s:price currency="CAD">28.00</s:price>
+      <s:sku>SP80064XS</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/101009140</id>
+      <title>S</title>
+      <s:price currency="CAD">28.00</s:price>
+      <s:sku>SP80064S</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/101009140</id>
+      <title>M</title>
+      <s:price currency="CAD">28.00</s:price>
+      <s:sku>SP80064M</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/101009140</id>
+      <title>L</title>
+      <s:price currency="CAD">28.00</s:price>
+      <s:sku>SP80064L</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/101009140</id>
+      <title>XL</title>
+      <s:price currency="CAD">28.00</s:price>
+      <s:sku>SP80064XL</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.splitz.ca/products/101008122</id>
+    <published>2012-08-13T16:46:00-05:00</published>
+    <updated>2012-08-13T16:46:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.splitz.ca/products/spanky-mystique-1"/>
+    <title>Spanky Flower Power</title>
+    <s:type>Shorts</s:type>
+    <s:vendor>Splitz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0099/4812/products/P1070090.jpg?v=1377881730"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Splitz<br>
+        <strong>Type: </strong>Shorts<br>
+        <strong>Price: </strong>
+            28.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gym &amp; volleyball shorts, Flower Power fabric.   </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>gymnastics</s:tag>
+    <s:tag>Prints</s:tag>
+    <s:tag>Shorts</s:tag>
+    <s:variant>
+      <id>https://www.splitz.ca/products/101008122</id>
+      <title>XS</title>
+      <s:price currency="CAD">28.00</s:price>
+      <s:sku>SP80054XS</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.splitz.ca/products/101006948</id>
+    <published>2012-08-13T16:46:00-05:00</published>
+    <updated>2012-08-13T16:46:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.splitz.ca/products/spanky-mystique"/>
+    <title>Spanky Red Mystique</title>
+    <s:type>Shorts</s:type>
+    <s:vendor>Splitz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0099/4812/products/P1070072.jpg?v=1377878864"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Splitz<br>
+        <strong>Type: </strong>Shorts<br>
+        <strong>Price: </strong>
+            28.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gym &amp; volleyball shorts, Red Mystique fabric.   </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>gymnastics</s:tag>
+    <s:tag>Metallic</s:tag>
+    <s:tag>Shorts</s:tag>
+    <s:variant>
+      <id>https://www.splitz.ca/products/101006948</id>
+      <title>XS</title>
+      <s:price currency="CAD">28.00</s:price>
+      <s:sku>SP80066XS</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+</feed>

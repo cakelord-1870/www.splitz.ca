@@ -1,0 +1,697 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.splitz.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.splitz.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.splitz.ca/collections/bags.atom"/>
+  <title>Splitz</title>
+  <updated>2012-09-23T14:50:00-05:00</updated>
+  <author>
+    <name>Splitz</name>
+  </author>
+  <entry>
+    <id>https://www.splitz.ca/products/97943256</id>
+    <published>2012-09-23T14:50:00-05:00</published>
+    <updated>2012-09-23T14:50:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.splitz.ca/products/tote-small-black-with-splitz-ca-logo"/>
+    <title>Grip Bag- Logo Tote</title>
+    <s:type>Bag</s:type>
+    <s:vendor>Splitz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0099/4812/products/grip_bag.jpg?v=1348429472"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Splitz<br>
+        <strong>Type: </strong>Bag<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> 15L x 15H x 7.5W cm Small Black Tote Bag with Splitz.ca Logo in White</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accessories</s:tag>
+    <s:tag>bags</s:tag>
+    <s:tag>Dance</s:tag>
+    <s:variant>
+      <id>https://www.splitz.ca/products/97943256</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku>SP001BK</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.splitz.ca/products/98060608</id>
+    <published>2012-08-16T14:27:00-05:00</published>
+    <updated>2012-08-16T14:27:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.splitz.ca/products/shoulder-bag"/>
+    <title>Shoulder Bag</title>
+    <s:type>Bag</s:type>
+    <s:vendor>Splitz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0099/4812/products/6.jpg?v=1345145261"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Splitz<br>
+        <strong>Type: </strong>Bag<br>
+        <strong>Price: </strong>
+            31.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Black Shoulder Bag 25W x 30H x 50L cm</p>
+<p>Detachable front pocket</p>
+<p>Custom Embroidery available, please inquire about designs and additional cost</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accessories</s:tag>
+    <s:tag>bags</s:tag>
+    <s:tag>Dance</s:tag>
+    <s:variant>
+      <id>https://www.splitz.ca/products/98060608</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">31.00</s:price>
+      <s:sku>KSSB60022</s:sku>
+      <s:grams>1200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.splitz.ca/products/101139464</id>
+    <published>2012-08-16T14:25:00-05:00</published>
+    <updated>2012-08-16T14:25:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.splitz.ca/products/grip-bag-mystique-11"/>
+    <title>Grip Bag Yellow Mystique</title>
+    <s:type>Bag</s:type>
+    <s:vendor>Splitz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0099/4812/products/027.jpg?v=1345748811"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Splitz<br>
+        <strong>Type: </strong>Bag<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Nylon Lycra Drawstring Grip bag</p>
+<p>21 X 29 cm</p>
+<p>Great for grips or hair accessories</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accessories</s:tag>
+    <s:tag>bags</s:tag>
+    <s:tag>Metallic</s:tag>
+    <s:variant>
+      <id>https://www.splitz.ca/products/101139464</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku>SP00764</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.splitz.ca/products/101136680</id>
+    <published>2012-08-16T14:25:00-05:00</published>
+    <updated>2012-08-16T14:25:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.splitz.ca/products/grip-bag-mystique-10"/>
+    <title>Grip Bag Lime Mystique</title>
+    <s:type>Bag</s:type>
+    <s:vendor>Splitz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0099/4812/products/025.jpg?v=1345748109"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Splitz<br>
+        <strong>Type: </strong>Bag<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Nylon Lycra Drawstring Grip bag</p>
+<p>21 X 29 cm</p>
+<p>Great for grips or hair accessories</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accessories</s:tag>
+    <s:tag>bags</s:tag>
+    <s:tag>Metallic</s:tag>
+    <s:variant>
+      <id>https://www.splitz.ca/products/101136680</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku>SP00771</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.splitz.ca/products/101135516</id>
+    <published>2012-08-16T14:25:00-05:00</published>
+    <updated>2012-08-16T14:25:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.splitz.ca/products/grip-bag-mystique-8"/>
+    <title>Grip Bag Berry Orange Mystique</title>
+    <s:type>Bag</s:type>
+    <s:vendor>Splitz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0099/4812/products/021.jpg?v=1345747153"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Splitz<br>
+        <strong>Type: </strong>Bag<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Nylon Lycra Drawstring Grip bag</p>
+<p>21 X 29 cm</p>
+<p>Great for grips or hair accessories</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accessories</s:tag>
+    <s:tag>bags</s:tag>
+    <s:tag>Metallic</s:tag>
+    <s:variant>
+      <id>https://www.splitz.ca/products/101135516</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku>SP007BA</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.splitz.ca/products/101135176</id>
+    <published>2012-08-16T14:25:00-05:00</published>
+    <updated>2012-08-16T14:25:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.splitz.ca/products/grip-bag-mystique-7"/>
+    <title>Grip Bag  Royal Blue Mystique</title>
+    <s:type>Bag</s:type>
+    <s:vendor>Splitz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0099/4812/products/23.jpg?v=1345747050"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Splitz<br>
+        <strong>Type: </strong>Bag<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Nylon Lycra Drawstring Grip bag</p>
+<p>21 X 29 cm</p>
+<p>Great for grips or hair accessories</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accessories</s:tag>
+    <s:tag>bags</s:tag>
+    <s:tag>Metallic</s:tag>
+    <s:variant>
+      <id>https://www.splitz.ca/products/101135176</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku>SP00767</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.splitz.ca/products/101134072</id>
+    <published>2012-08-16T14:25:00-05:00</published>
+    <updated>2012-08-16T14:25:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.splitz.ca/products/grip-bag-mystique-6"/>
+    <title>Grip Bag  Purple Mystique</title>
+    <s:type>Bag</s:type>
+    <s:vendor>Splitz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0099/4812/products/22.jpg?v=1345746638"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Splitz<br>
+        <strong>Type: </strong>Bag<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Nylon Lycra Drawstring Grip bag</p>
+<p>21 X 29 cm</p>
+<p>Great for grips or hair accessories</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accessories</s:tag>
+    <s:tag>bags</s:tag>
+    <s:tag>Metallic</s:tag>
+    <s:variant>
+      <id>https://www.splitz.ca/products/101134072</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku>SP00763</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.splitz.ca/products/101132106</id>
+    <published>2012-08-16T14:25:00-05:00</published>
+    <updated>2012-08-16T14:25:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.splitz.ca/products/grip-bag-mystique-4"/>
+    <title>Grip Bag  Red Mystique</title>
+    <s:type>Bag</s:type>
+    <s:vendor>Splitz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0099/4812/products/20.jpg?v=1345746330"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Splitz<br>
+        <strong>Type: </strong>Bag<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Nylon Lycra Drawstring Grip bag</p>
+<p>21 X 29 cm</p>
+<p>Great for grips or hair accessories</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accessories</s:tag>
+    <s:tag>bags</s:tag>
+    <s:tag>Metallic</s:tag>
+    <s:variant>
+      <id>https://www.splitz.ca/products/101132106</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku>SP00766</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.splitz.ca/products/101120362</id>
+    <published>2012-08-16T14:25:00-05:00</published>
+    <updated>2012-08-16T14:25:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.splitz.ca/products/grip-bag-mystique-1"/>
+    <title>Grip Bag Ocean Blue Mystique</title>
+    <s:type>Bag</s:type>
+    <s:vendor>Splitz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0099/4812/products/16.jpg?v=1345739510"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Splitz<br>
+        <strong>Type: </strong>Bag<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Nylon Lycra Drawstring Grip bag</p>
+<p>21 X 29 cm</p>
+<p>Great for grips or hair accessories</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accessories</s:tag>
+    <s:tag>bags</s:tag>
+    <s:tag>Metallic</s:tag>
+    <s:variant>
+      <id>https://www.splitz.ca/products/101120362</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku>SP007AN</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.splitz.ca/products/101120148</id>
+    <published>2012-08-16T14:25:00-05:00</published>
+    <updated>2012-08-16T14:25:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.splitz.ca/products/grip-bag-mystique"/>
+    <title>Grip Bag  Lilac Mystique</title>
+    <s:type>Bag</s:type>
+    <s:vendor>Splitz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0099/4812/products/15.jpg?v=1345739168"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Splitz<br>
+        <strong>Type: </strong>Bag<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Nylon Lycra Drawstring Grip bag available in multiple colours </p>
+<p>21 X 29 cm</p>
+<p>Great for grips or hair accessories</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accessories</s:tag>
+    <s:tag>bags</s:tag>
+    <s:variant>
+      <id>https://www.splitz.ca/products/101120148</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku>SP007AQ</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.splitz.ca/products/98061808</id>
+    <published>2012-08-16T14:25:00-05:00</published>
+    <updated>2012-08-16T14:25:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.splitz.ca/products/drawstring-grip-bag"/>
+    <title>Grip Bag Black Mystique</title>
+    <s:type>Bag</s:type>
+    <s:vendor>Splitz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0099/4812/products/12.jpg?v=1345145137"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Splitz<br>
+        <strong>Type: </strong>Bag<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Nylon Lycra Drawstring Grip bag available in multiple colours </p>
+<p>21 X 29 cm</p>
+<p>Great for grips or hair accessories</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accessories</s:tag>
+    <s:tag>bags</s:tag>
+    <s:tag>Metallic</s:tag>
+    <s:variant>
+      <id>https://www.splitz.ca/products/98061808</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku>SP00760</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.splitz.ca/products/98061464</id>
+    <published>2012-08-16T14:12:00-05:00</published>
+    <updated>2012-08-16T14:12:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.splitz.ca/products/backpack-black-estadio"/>
+    <title>Adidas Estadido  Backpack</title>
+    <s:type>Bag</s:type>
+    <s:vendor>Adidas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0099/4812/products/002.jpg?v=1345144440"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Adidas<br>
+        <strong>Type: </strong>Bag<br>
+        <strong>Price: </strong>
+            50.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Black Estadio Adidas Backpack 26W x 32L x 50H cm</p>
+<p>Custom Embroidery available, please enquire about designs and additional cost</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accessories</s:tag>
+    <s:tag>bags</s:tag>
+    <s:variant>
+      <id>https://www.splitz.ca/products/98061464</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">50.00</s:price>
+      <s:sku>Q50137</s:sku>
+      <s:grams>1200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.splitz.ca/products/97953660</id>
+    <published>2012-07-27T11:32:00-05:00</published>
+    <updated>2012-07-27T11:32:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.splitz.ca/products/tote-large-denim"/>
+    <title>Tote Large Denim</title>
+    <s:type>Bag</s:type>
+    <s:vendor>Splitz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0099/4812/products/P1010443.jpg?v=1343406796"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Splitz<br>
+        <strong>Type: </strong>Bag<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Large Denim Tote Bag 27L x 30H x 7.5 W cm with Pink Splitz.ca Embroidered Logo</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accessories</s:tag>
+    <s:tag>bags</s:tag>
+    <s:variant>
+      <id>https://www.splitz.ca/products/97953660</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku>SP003DM</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.splitz.ca/products/97966988</id>
+    <published>2012-07-26T18:03:00-05:00</published>
+    <updated>2012-07-26T18:03:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.splitz.ca/products/drawstring-shoe-bag-gymbag"/>
+    <title>Gym Bag / Shoe Bag</title>
+    <s:type>Bag</s:type>
+    <s:vendor>Splitz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0099/4812/products/P1010444.jpg?v=1343405506"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Splitz<br>
+        <strong>Type: </strong>Bag<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Drawstring Gym / Shoe Bag, in assorted colours 23 x 39 cm </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accessories</s:tag>
+    <s:tag>bags</s:tag>
+    <s:variant>
+      <id>https://www.splitz.ca/products/97966988</id>
+      <title>Butterfly</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku>SP002butterflies</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/97966988</id>
+      <title>Ballet shoes print</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku>SP002BALLET</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.splitz.ca/products/97966032</id>
+    <published>2012-07-26T17:58:00-05:00</published>
+    <updated>2012-07-26T17:58:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.splitz.ca/products/rolled-black-embroidered-tote"/>
+    <title>Dance Roll Bag</title>
+    <s:type>Bag</s:type>
+    <s:vendor>Splitz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0099/4812/products/P1010435.jpg?v=1343406107"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Splitz<br>
+        <strong>Type: </strong>Bag<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Rolled Black Bag 38L x 20H x 20W cm.  Embroidered I Love Dance, I Love Gym, I Love....</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accessories</s:tag>
+    <s:tag>bags</s:tag>
+    <s:variant>
+      <id>https://www.splitz.ca/products/97966032</id>
+      <title>I Heart Dance</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku>SP005DANCE</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.splitz.ca/products/97954090</id>
+    <published>2012-07-26T16:43:00-05:00</published>
+    <updated>2012-07-26T16:43:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.splitz.ca/products/copy-of-tote-large-lavender"/>
+    <title>Tote Large Lavender</title>
+    <s:type>Bag</s:type>
+    <s:vendor>Splitz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0099/4812/products/P1010447.jpg?v=1344555350"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Splitz<br>
+        <strong>Type: </strong>Bag<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> Large Lavender Tote Bag 27L x 30H x 7.5 W cm with Black Splitz.ca Embroidered Logo</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accessories</s:tag>
+    <s:tag>bags</s:tag>
+    <s:variant>
+      <id>https://www.splitz.ca/products/97954090</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku>SP003LV</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.splitz.ca/products/97950700</id>
+    <published>2012-07-26T16:43:00-05:00</published>
+    <updated>2012-07-26T16:43:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.splitz.ca/products/tote-large-pink-corduroy"/>
+    <title>Tote Large Pink Corduroy</title>
+    <s:type>Bag</s:type>
+    <s:vendor>Splitz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0099/4812/products/P1010445.jpg?v=1343406393"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Splitz<br>
+        <strong>Type: </strong>Bag<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> Large Pink Corduroy Tote Bag 27L x 30H x 7.5 W cm with Black Splitz.ca Embroidered Logo</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accessories</s:tag>
+    <s:tag>bags</s:tag>
+    <s:tag>Dance</s:tag>
+    <s:variant>
+      <id>https://www.splitz.ca/products/97950700</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku>SP003PK</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+</feed>

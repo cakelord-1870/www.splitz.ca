@@ -1,0 +1,1182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.splitz.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.splitz.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.splitz.ca/collections/dance.atom"/>
+  <title>Splitz</title>
+  <updated>2016-04-30T12:57:00-05:00</updated>
+  <author>
+    <name>Splitz</name>
+  </author>
+  <entry>
+    <id>https://www.splitz.ca/products/6345790855</id>
+    <published>2016-04-30T12:57:00-05:00</published>
+    <updated>2016-04-30T12:57:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.splitz.ca/products/black-tights"/>
+    <title>Dance Tights- Black</title>
+    <s:type>accessories</s:type>
+    <s:vendor>Johnny Brown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0099/4812/products/image_b89eba39-540a-48d9-afe4-e3ce696c9e0f.jpg?v=1545931711"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Johnny Brown<br>
+        <strong>Type: </strong>accessories<br>
+        <strong>Price: </strong>
+            13.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Black Dance Tights by Johnny Brown</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>tights</s:tag>
+    <s:variant>
+      <id>https://www.splitz.ca/products/6345790855</id>
+      <title>2-4</title>
+      <s:price currency="CAD">13.99</s:price>
+      <s:sku>JB193456-2-4</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/6345790855</id>
+      <title>4-6</title>
+      <s:price currency="CAD">13.99</s:price>
+      <s:sku>JB193457-4-6</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/6345790855</id>
+      <title>10-12</title>
+      <s:price currency="CAD">13.99</s:price>
+      <s:sku>JB193458-10-12</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.splitz.ca/products/97313686</id>
+    <published>2013-10-09T17:36:00-05:00</published>
+    <updated>2013-10-09T17:36:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.splitz.ca/products/pink-leotard-1"/>
+    <title>Dance leotard- Tank Pink Cotton/ Lycra</title>
+    <s:type>Bodysuit</s:type>
+    <s:vendor>Splitz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0099/4812/products/SP1100_PINK_CL.jpg?v=1344556127"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Splitz<br>
+        <strong>Type: </strong>Bodysuit<br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Pink Cotton Lycra Tank Dance Leotard</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bodysuit</s:tag>
+    <s:tag>Dance</s:tag>
+    <s:tag>leotard</s:tag>
+    <s:variant>
+      <id>https://www.splitz.ca/products/97313686</id>
+      <title>Size 2</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>SP1100000001S</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/97313686</id>
+      <title>4</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>SP11000000014</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/97313686</id>
+      <title>6</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>SP11000000016</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/97313686</id>
+      <title>8</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>SP11000000018</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.splitz.ca/products/97313412</id>
+    <published>2013-10-09T17:35:00-05:00</published>
+    <updated>2013-10-09T17:35:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.splitz.ca/products/black-leotard"/>
+    <title>Dance Leotard- Tank Black</title>
+    <s:type>Bodysuit</s:type>
+    <s:vendor>Splitz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0099/4812/products/011.jpg?v=1344871852"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Splitz<br>
+        <strong>Type: </strong>Bodysuit<br>
+        <strong>Price: </strong>
+            30.00 - 40.00
+            <a href="https://www.splitz.ca/products/black-leotard">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Black Cotton Lycra Tank Dance Leotard with matching edge.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bodysuit</s:tag>
+    <s:tag>Dance</s:tag>
+    <s:tag>gymnastics</s:tag>
+    <s:tag>leotard</s:tag>
+    <s:variant>
+      <id>https://www.splitz.ca/products/97313412</id>
+      <title>Size 2</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>SP1110000000002</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/97313412</id>
+      <title>4</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>SP1110000000004</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/97313412</id>
+      <title>6</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>SP1110000000006</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/97313412</id>
+      <title>8</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>SP1110000000008</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/97313412</id>
+      <title>10</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>SP11100000000010</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/97313412</id>
+      <title>12</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>SP11100000000012</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/97313412</id>
+      <title>XS</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>SP111000000000XS</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/97313412</id>
+      <title>S</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>SP111000000000S</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.splitz.ca/products/154446633</id>
+    <published>2013-08-30T14:39:00-05:00</published>
+    <updated>2013-08-30T14:39:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.splitz.ca/products/roll-down-black-shea-yoga-pant"/>
+    <title>Yoga Pant- Roll Down Waistband</title>
+    <s:type>Pant</s:type>
+    <s:vendor>Splitz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0099/4812/products/P1070186.jpg?v=1377891825"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Splitz<br>
+        <strong>Type: </strong>Pant<br>
+        <strong>Price: </strong>
+            35.00 - 50.00
+            <a href="https://www.splitz.ca/products/roll-down-black-shea-yoga-pant">(10 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Yoga Pant with roll down waistband made of high performance nylon/lycra fabric.</p>
+<p>Other Colour options (Navy, Chocolate, White, Red, Apple, Grey, &amp; Concord available upon request.</p>
+<p>Email or call for Team options.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>gymnastics</s:tag>
+    <s:tag>Pant</s:tag>
+    <s:tag>volleyball</s:tag>
+    <s:variant>
+      <id>https://www.splitz.ca/products/154446633</id>
+      <title>4</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>SP845/C4</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/154446633</id>
+      <title>6</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>SP845/C6</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/154446633</id>
+      <title>8</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>SP845/C8</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/154446633</id>
+      <title>10</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>SP845/C10</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/154446633</id>
+      <title>12</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>SP845/C12</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/154446633</id>
+      <title>XS</title>
+      <s:price currency="CAD">50.00</s:price>
+      <s:sku>SP845/AXS</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/154446633</id>
+      <title>S</title>
+      <s:price currency="CAD">50.00</s:price>
+      <s:sku>SP845/AS</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/154446633</id>
+      <title>M</title>
+      <s:price currency="CAD">50.00</s:price>
+      <s:sku>SP845/AM</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/154446633</id>
+      <title>L</title>
+      <s:price currency="CAD">50.00</s:price>
+      <s:sku>SP845/AL</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/154446633</id>
+      <title>XL</title>
+      <s:price currency="CAD">50.00</s:price>
+      <s:sku>SP845/AXL</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.splitz.ca/products/97313922</id>
+    <published>2012-09-23T12:55:00-05:00</published>
+    <updated>2012-09-23T12:55:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.splitz.ca/products/pink-leotard-with-short-sleeves"/>
+    <title>Leotard Dance Short Sleeves Pink</title>
+    <s:type>Bodysuit</s:type>
+    <s:vendor>Splitz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Splitz<br>
+        <strong>Type: </strong>Bodysuit<br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Pink Cotton Lycra Tank Dance Leotard  with Short Sleeves</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bodysuit</s:tag>
+    <s:tag>Dance</s:tag>
+    <s:tag>leotard</s:tag>
+    <s:variant>
+      <id>https://www.splitz.ca/products/97313922</id>
+      <title>Size 2</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>SP11020000012</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/97313922</id>
+      <title>4</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>SP11020000014</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/97313922</id>
+      <title>6</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>SP11020000016</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/97313922</id>
+      <title>8</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>SP11020000018</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.splitz.ca/products/97314974</id>
+    <published>2012-09-23T12:53:00-05:00</published>
+    <updated>2012-09-23T12:53:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.splitz.ca/products/pink-leotard-with-long-sleeves"/>
+    <title>Leotard Dance Long Sleeve Pink</title>
+    <s:type>Bodysuit</s:type>
+    <s:vendor>Splitz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Splitz<br>
+        <strong>Type: </strong>Bodysuit<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Pink Cotton Lycra Tank Leotard Dance Bodysuit  with Long Sleeves</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bodysuit</s:tag>
+    <s:tag>Dance</s:tag>
+    <s:tag>leotard</s:tag>
+    <s:variant>
+      <id>https://www.splitz.ca/products/97314974</id>
+      <title>Size 2</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku>SP11050000012</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/97314974</id>
+      <title>4</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku>SP11050000014</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/97314974</id>
+      <title>6</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku>SP11050000016</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/97314974</id>
+      <title>8</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku>SP11050000018</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/97314974</id>
+      <title>10</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku>SP110500000110</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/97314974</id>
+      <title>12</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku>SP110500000112</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/97314974</id>
+      <title>XS</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku>SP1105000001XS</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/97314974</id>
+      <title>S</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku>SP1105000001S</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.splitz.ca/products/97313852</id>
+    <published>2012-08-13T10:27:00-05:00</published>
+    <updated>2012-08-13T10:27:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.splitz.ca/products/black-leotard-with-short-sleeves"/>
+    <title>Leotard Dance Short Sleeve Black</title>
+    <s:type>Bodysuit</s:type>
+    <s:vendor>Splitz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0099/4812/products/013.jpg?v=1344871774"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Splitz<br>
+        <strong>Type: </strong>Bodysuit<br>
+        <strong>Price: </strong>
+            30.00 - 35.00
+            <a href="https://www.splitz.ca/products/black-leotard-with-short-sleeves">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Black Cotton Lycra Short Sleeve Dance Leotard</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bodysuit</s:tag>
+    <s:tag>Dance</s:tag>
+    <s:tag>leotard</s:tag>
+    <s:variant>
+      <id>https://www.splitz.ca/products/97313852</id>
+      <title>Size 2</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>SP11020000002</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/97313852</id>
+      <title>4</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>SP11020000004</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/97313852</id>
+      <title>6</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>SP11020000006</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/97313852</id>
+      <title>8</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>SP11020000008</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/97313852</id>
+      <title>10</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>SP110200000010</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/97313852</id>
+      <title>12</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>SP110200000012</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/97313852</id>
+      <title>XS</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>SP1102000000XS</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/97313852</id>
+      <title>S</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>SP1102000000S</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.splitz.ca/products/97314872</id>
+    <published>2012-08-13T10:26:00-05:00</published>
+    <updated>2012-08-13T10:26:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.splitz.ca/products/black-leotard-with-long-sleeves"/>
+    <title>Leotard Dance Long Sleeve Black</title>
+    <s:type>Bodysuit</s:type>
+    <s:vendor>Splitz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0099/4812/products/014.jpg?v=1344871598"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Splitz<br>
+        <strong>Type: </strong>Bodysuit<br>
+        <strong>Price: </strong>
+            40.00 - 45.00
+            <a href="https://www.splitz.ca/products/black-leotard-with-long-sleeves">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Black Cotton Lycra Long Sleeve Dance Leotard</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bodysuit</s:tag>
+    <s:tag>Dance</s:tag>
+    <s:tag>leotard</s:tag>
+    <s:variant>
+      <id>https://www.splitz.ca/products/97314872</id>
+      <title>Size 2</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>SP11050000002</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/97314872</id>
+      <title>4</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>SP11050000004</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/97314872</id>
+      <title>6</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>SP11050000006</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/97314872</id>
+      <title>8</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>SP11050000008</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/97314872</id>
+      <title>10</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>SP110500000010</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/97314872</id>
+      <title>12</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>SP110500000012</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/97314872</id>
+      <title>XS</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku>SP1105000000XS</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/97314872</id>
+      <title>S</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku>SP1105000000S</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.splitz.ca/products/97966988</id>
+    <published>2012-07-26T18:03:00-05:00</published>
+    <updated>2012-07-26T18:03:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.splitz.ca/products/drawstring-shoe-bag-gymbag"/>
+    <title>Gym Bag / Shoe Bag</title>
+    <s:type>Bag</s:type>
+    <s:vendor>Splitz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0099/4812/products/P1010444.jpg?v=1343405506"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Splitz<br>
+        <strong>Type: </strong>Bag<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Drawstring Gym / Shoe Bag, in assorted colours 23 x 39 cm </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accessories</s:tag>
+    <s:tag>bags</s:tag>
+    <s:variant>
+      <id>https://www.splitz.ca/products/97966988</id>
+      <title>Butterfly</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku>SP002butterflies</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/97966988</id>
+      <title>Ballet shoes print</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku>SP002BALLET</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.splitz.ca/products/10552695687</id>
+    <published>2012-07-24T11:11:00-05:00</published>
+    <updated>2012-07-24T11:11:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.splitz.ca/products/shorts-black-nylon-lycra"/>
+    <title>Shorts - Tactel Nylon / Lycra</title>
+    <s:type>Shorts</s:type>
+    <s:vendor>Splitz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0099/4812/products/P1070143_ce0d6e23-c1bb-41f8-8c27-f3771af7cebd.jpg?v=1497220214"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Splitz<br>
+        <strong>Type: </strong>Shorts<br>
+        <strong>Price: </strong>
+            20.00 - 30.00
+            <a href="https://www.splitz.ca/products/shorts-black-nylon-lycra">(10 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Black Tactel Nylon/ Lycra gymnastics &amp; volleyball short.   </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>gymnastics</s:tag>
+    <s:tag>shorts</s:tag>
+    <s:tag>spanky</s:tag>
+    <s:tag>volleyball</s:tag>
+    <s:variant>
+      <id>https://www.splitz.ca/products/10552695687</id>
+      <title>4</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku>SP800TNL04</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/10552695687</id>
+      <title>6</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku>SP800TNL06</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/10552695687</id>
+      <title>8</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku>SP800TNL08</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/10552695687</id>
+      <title>10</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku>SP800TNL10</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/10552695687</id>
+      <title>12</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku>SP800TNL12</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/10552695687</id>
+      <title>XS</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku>SP800TNLXS</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/10552695687</id>
+      <title>S</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku>SP800TNLS</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/10552695687</id>
+      <title>M</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku>SP800TNLM</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/10552695687</id>
+      <title>L</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>SP800TNLL</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/10552695687</id>
+      <title>XL</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>SP800TNLXL</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.splitz.ca/products/97547470</id>
+    <published>2012-07-24T11:11:00-05:00</published>
+    <updated>2012-07-24T11:11:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.splitz.ca/products/spanky-black"/>
+    <title>Shorts - Cotton / Lycra Black</title>
+    <s:type>Shorts</s:type>
+    <s:vendor>Splitz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0099/4812/products/P1070143.jpg?v=1377887329"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Splitz<br>
+        <strong>Type: </strong>Shorts<br>
+        <strong>Price: </strong>
+            15.00 - 20.00
+            <a href="https://www.splitz.ca/products/spanky-black">(10 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Black cotton/ lycra gymnastics, dance &amp; volleyball short.   </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>gymnastics</s:tag>
+    <s:tag>shorts</s:tag>
+    <s:tag>spanky</s:tag>
+    <s:tag>volleyball</s:tag>
+    <s:variant>
+      <id>https://www.splitz.ca/products/97547470</id>
+      <title>4</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku>SP800004</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/97547470</id>
+      <title>6</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku>SP800006</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/97547470</id>
+      <title>8</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku>SP800008</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/97547470</id>
+      <title>10</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku>SP8000010</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/97547470</id>
+      <title>12</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku>SP8000012</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/97547470</id>
+      <title>XS</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku>SP80000XS</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/97547470</id>
+      <title>S</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku>SP80000S</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/97547470</id>
+      <title>M</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku>SP80000M</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/97547470</id>
+      <title>L</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku>SP80000L</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/97547470</id>
+      <title>XL</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku>SP80000XL</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.splitz.ca/products/97318308</id>
+    <published>2012-07-20T12:27:00-05:00</published>
+    <updated>2012-07-20T12:27:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.splitz.ca/products/flair-dance-pant"/>
+    <title>Dance Pant- Black Cotton / Lycra</title>
+    <s:type>Pant</s:type>
+    <s:vendor>Splitz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0099/4812/products/P1010385.jpg?v=1545930747"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Splitz<br>
+        <strong>Type: </strong>Pant<br>
+        <strong>Price: </strong>
+            30.00 - 40.00
+            <a href="https://www.splitz.ca/products/flair-dance-pant">(10 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Black Cotton Lycra Flair Dance Pant</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dance</s:tag>
+    <s:tag>Pant</s:tag>
+    <s:variant>
+      <id>https://www.splitz.ca/products/97318308</id>
+      <title>Size 4</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>SPDPF004</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/97318308</id>
+      <title>6</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>SPDPF006</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/97318308</id>
+      <title>8</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>SPDPF008</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/97318308</id>
+      <title>10</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>SPDPF0010</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/97318308</id>
+      <title>12</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>SPDPF0012</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/97318308</id>
+      <title>XS</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>SPDPF00XS</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/97318308</id>
+      <title>S</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>SPDPF00S</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/97318308</id>
+      <title>M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>SPDPF00M</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/97318308</id>
+      <title>L</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>SPDPF00L</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/97318308</id>
+      <title>XL</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>SPDPF00XL</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.splitz.ca/products/97317724</id>
+    <published>2012-07-20T11:58:00-05:00</published>
+    <updated>2012-07-20T11:58:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.splitz.ca/products/pink-wrap-dance-skirt"/>
+    <title>Dance Wrap Skirt Pink</title>
+    <s:type>Wrap Skirt</s:type>
+    <s:vendor>Splitz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0099/4812/products/Pink_Dance_skirt.jpg?v=1342804775"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Splitz<br>
+        <strong>Type: </strong>Wrap Skirt<br>
+        <strong>Price: </strong>
+            15.00 - 30.00
+            <a href="https://www.splitz.ca/products/pink-wrap-dance-skirt">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Pink Polyester Wrap Dance Skirt </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dance</s:tag>
+    <s:tag>leotard</s:tag>
+    <s:tag>Skirt</s:tag>
+    <s:variant>
+      <id>https://www.splitz.ca/products/97317724</id>
+      <title>YOUTH (8-12)</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku>SP902014</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/97317724</id>
+      <title>ADULT (XS-M)</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>SP90201XS</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.splitz.ca/products/97316246</id>
+    <published>2012-07-20T11:58:00-05:00</published>
+    <updated>2012-07-20T11:58:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.splitz.ca/products/black-wrap-dance-skirt"/>
+    <title>Dance Wrap Skirt Black</title>
+    <s:type>Wrap Skirt</s:type>
+    <s:vendor>Splitz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0099/4812/products/Black_Dance_skirt.jpg?v=1342804628"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Splitz<br>
+        <strong>Type: </strong>Wrap Skirt<br>
+        <strong>Price: </strong>
+            30.00 - 35.00
+            <a href="https://www.splitz.ca/products/black-wrap-dance-skirt">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Black Polyester Wrap Dance Skirt </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dance</s:tag>
+    <s:tag>leotard</s:tag>
+    <s:tag>Skirt</s:tag>
+    <s:variant>
+      <id>https://www.splitz.ca/products/97316246</id>
+      <title>YOUTH (8-12)</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>SPWS004</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/97316246</id>
+      <title>ADULT (XS-M)</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>SPWS00XS</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.splitz.ca/products/97314236</id>
+    <published>2012-07-20T10:32:00-05:00</published>
+    <updated>2012-07-20T10:32:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.splitz.ca/products/black-leotard-with-spaghetti-strap"/>
+    <title>Leotard Dance Camisole Black</title>
+    <s:type>Bodysuit</s:type>
+    <s:vendor>Splitz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0099/4812/products/P1070160.jpg?v=1377887738"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Splitz<br>
+        <strong>Type: </strong>Bodysuit<br>
+        <strong>Price: </strong>
+            35.00 - 40.00
+            <a href="https://www.splitz.ca/products/black-leotard-with-spaghetti-strap">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Black Cotton Lycra Camisole Dance Leotard</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bodysuit</s:tag>
+    <s:tag>Dance</s:tag>
+    <s:tag>gymnastics</s:tag>
+    <s:tag>leotard</s:tag>
+    <s:variant>
+      <id>https://www.splitz.ca/products/97314236</id>
+      <title>Size 2</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>SP10000000002</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/97314236</id>
+      <title>4</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>SP10000000004</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/97314236</id>
+      <title>6</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>SP10000000006</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/97314236</id>
+      <title>8</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>SP10000000008</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/97314236</id>
+      <title>10</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>SP100000000010</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/97314236</id>
+      <title>12</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>SP100000000012</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/97314236</id>
+      <title>XS</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>SP1000000000XS</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/97314236</id>
+      <title>S</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>SP1000000000S</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+</feed>

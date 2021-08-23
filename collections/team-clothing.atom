@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.splitz.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.splitz.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.splitz.ca/collections/team-clothing.atom"/>
+  <title>Splitz</title>
+  <updated>2013-08-30T15:20:00-05:00</updated>
+  <author>
+    <name>Splitz</name>
+  </author>
+  <entry>
+    <id>https://www.splitz.ca/products/154454893</id>
+    <published>2013-08-30T15:20:00-05:00</published>
+    <updated>2013-08-30T15:20:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.splitz.ca/products/black-shea-long-sleeved-zip-up"/>
+    <title>Yoga Zip-Up Jacket in Black Shea</title>
+    <s:type>Uniform</s:type>
+    <s:vendor>Splitz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0099/4812/products/P1070232.jpg?v=1377894104"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Splitz<br>
+        <strong>Type: </strong>Uniform<br>
+        <strong>Price: </strong>
+            60.00 - 70.00
+            <a href="https://www.splitz.ca/products/black-shea-long-sleeved-zip-up">(10 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Yoga Jacket with zipper front and collar made in high performance nylon/lycra fabric.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>fitness</s:tag>
+    <s:variant>
+      <id>https://www.splitz.ca/products/154454893</id>
+      <title>4</title>
+      <s:price currency="CAD">60.00</s:price>
+      <s:sku>SP705/CHILD-04</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/154454893</id>
+      <title>6</title>
+      <s:price currency="CAD">60.00</s:price>
+      <s:sku>SP705/CHILD-06</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/154454893</id>
+      <title>8</title>
+      <s:price currency="CAD">60.00</s:price>
+      <s:sku>SP705/CHILD-08</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/154454893</id>
+      <title>10</title>
+      <s:price currency="CAD">60.00</s:price>
+      <s:sku>SP705/CHILD-10</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/154454893</id>
+      <title>12</title>
+      <s:price currency="CAD">60.00</s:price>
+      <s:sku>SP705/CHILD-12</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/154454893</id>
+      <title>XS</title>
+      <s:price currency="CAD">70.00</s:price>
+      <s:sku>SP705/ADULT-XS</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/154454893</id>
+      <title>S</title>
+      <s:price currency="CAD">70.00</s:price>
+      <s:sku>SP705/ADULT-S</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/154454893</id>
+      <title>M</title>
+      <s:price currency="CAD">70.00</s:price>
+      <s:sku>SP705/ADULT-M</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/154454893</id>
+      <title>L</title>
+      <s:price currency="CAD">70.00</s:price>
+      <s:sku>SP705/ADULT-L</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/154454893</id>
+      <title>XL</title>
+      <s:price currency="CAD">70.00</s:price>
+      <s:sku>SP705/ADULT-XL</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.splitz.ca/products/154446633</id>
+    <published>2013-08-30T14:39:00-05:00</published>
+    <updated>2013-08-30T14:39:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.splitz.ca/products/roll-down-black-shea-yoga-pant"/>
+    <title>Yoga Pant- Roll Down Waistband</title>
+    <s:type>Pant</s:type>
+    <s:vendor>Splitz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0099/4812/products/P1070186.jpg?v=1377891825"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Splitz<br>
+        <strong>Type: </strong>Pant<br>
+        <strong>Price: </strong>
+            35.00 - 50.00
+            <a href="https://www.splitz.ca/products/roll-down-black-shea-yoga-pant">(10 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Yoga Pant with roll down waistband made of high performance nylon/lycra fabric.</p>
+<p>Other Colour options (Navy, Chocolate, White, Red, Apple, Grey, &amp; Concord available upon request.</p>
+<p>Email or call for Team options.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>gymnastics</s:tag>
+    <s:tag>Pant</s:tag>
+    <s:tag>volleyball</s:tag>
+    <s:variant>
+      <id>https://www.splitz.ca/products/154446633</id>
+      <title>4</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>SP845/C4</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/154446633</id>
+      <title>6</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>SP845/C6</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/154446633</id>
+      <title>8</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>SP845/C8</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/154446633</id>
+      <title>10</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>SP845/C10</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/154446633</id>
+      <title>12</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>SP845/C12</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/154446633</id>
+      <title>XS</title>
+      <s:price currency="CAD">50.00</s:price>
+      <s:sku>SP845/AXS</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/154446633</id>
+      <title>S</title>
+      <s:price currency="CAD">50.00</s:price>
+      <s:sku>SP845/AS</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/154446633</id>
+      <title>M</title>
+      <s:price currency="CAD">50.00</s:price>
+      <s:sku>SP845/AM</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/154446633</id>
+      <title>L</title>
+      <s:price currency="CAD">50.00</s:price>
+      <s:sku>SP845/AL</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/154446633</id>
+      <title>XL</title>
+      <s:price currency="CAD">50.00</s:price>
+      <s:sku>SP845/AXL</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.splitz.ca/products/98060608</id>
+    <published>2012-08-16T14:27:00-05:00</published>
+    <updated>2012-08-16T14:27:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.splitz.ca/products/shoulder-bag"/>
+    <title>Shoulder Bag</title>
+    <s:type>Bag</s:type>
+    <s:vendor>Splitz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0099/4812/products/6.jpg?v=1345145261"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Splitz<br>
+        <strong>Type: </strong>Bag<br>
+        <strong>Price: </strong>
+            31.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Black Shoulder Bag 25W x 30H x 50L cm</p>
+<p>Detachable front pocket</p>
+<p>Custom Embroidery available, please inquire about designs and additional cost</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accessories</s:tag>
+    <s:tag>bags</s:tag>
+    <s:tag>Dance</s:tag>
+    <s:variant>
+      <id>https://www.splitz.ca/products/98060608</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">31.00</s:price>
+      <s:sku>KSSB60022</s:sku>
+      <s:grams>1200</s:grams>
+    </s:variant>
+  </entry>
+</feed>

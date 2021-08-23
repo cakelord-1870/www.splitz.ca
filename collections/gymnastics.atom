@@ -1,0 +1,1309 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.splitz.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.splitz.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.splitz.ca/collections/gymnastics.atom"/>
+  <title>Splitz</title>
+  <updated>2018-01-28T12:45:15-06:00</updated>
+  <author>
+    <name>Splitz</name>
+  </author>
+  <entry>
+    <id>https://www.splitz.ca/products/423872364577</id>
+    <published>2018-01-28T12:45:15-06:00</published>
+    <updated>2018-01-28T12:45:15-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.splitz.ca/products/open-back-purple-metallic-squares"/>
+    <title>Open Back - Purple Metallic Squares Tank Bodysuit</title>
+    <s:type>Bodysuit</s:type>
+    <s:vendor>Splitz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0099/4812/products/image_3650f932-9d22-4692-83ad-c62caa18f7a8.jpg?v=1517165232"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Splitz<br>
+        <strong>Type: </strong>Bodysuit<br>
+        <strong>Price: </strong>
+            49.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Purple Metallic Squares Open Back Tank Bodysuit</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bodysuit</s:tag>
+    <s:tag>gym-gear</s:tag>
+    <s:tag>gymnastics</s:tag>
+    <s:variant>
+      <id>https://www.splitz.ca/products/423872364577</id>
+      <title>XS</title>
+      <s:price currency="CAD">49.00</s:price>
+      <s:sku>Sp1110-04PSXS</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.splitz.ca/products/423860240417</id>
+    <published>2018-01-28T10:23:04-06:00</published>
+    <updated>2018-01-28T10:23:04-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.splitz.ca/products/black-mystique-w-flame-applique-in-coral"/>
+    <title>Flames Black Mystique w/ Coral Appliqué</title>
+    <s:type>Bodysuit</s:type>
+    <s:vendor>Splitz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0099/4812/products/image_242551ef-8a42-4f41-8380-76dee8d80ae4.jpg?v=1517156597"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Splitz<br>
+        <strong>Type: </strong>Bodysuit<br>
+        <strong>Price: </strong>
+            50.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Black Mystique Tank Bodysuit w/ Coral Flame Appliqués and Edges </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Applique</s:tag>
+    <s:tag>Bodysuit</s:tag>
+    <s:tag>gym-gear</s:tag>
+    <s:tag>Metallic</s:tag>
+    <s:variant>
+      <id>https://www.splitz.ca/products/423860240417</id>
+      <title>10</title>
+      <s:price currency="CAD">50.00</s:price>
+      <s:sku>SP11105Flames-4</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.splitz.ca/products/423798374433</id>
+    <published>2018-01-27T17:19:23-06:00</published>
+    <updated>2018-01-27T17:19:23-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.splitz.ca/products/velvet-merlot-tank-bodysuit"/>
+    <title>Velvet Merlot Tank Bodysuit</title>
+    <s:type>Bodysuit</s:type>
+    <s:vendor>Splitz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0099/4812/products/image_a0077fae-59f7-4a31-bdf3-3f665b6daacc.jpg?v=1517095170"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Splitz<br>
+        <strong>Type: </strong>Bodysuit<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Velvet Merlot Tank Bodysuit w/silver edges</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bodysuit</s:tag>
+    <s:variant>
+      <id>https://www.splitz.ca/products/423798374433</id>
+      <title>6</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku>sp1110cvelmer06</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.splitz.ca/products/423798243361</id>
+    <published>2018-01-27T17:15:15-06:00</published>
+    <updated>2018-01-27T17:15:15-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.splitz.ca/products/velour-crushed-merlot-tank-bodysuit"/>
+    <title>Velour Crushed Merlot Tank Bodysuit</title>
+    <s:type>Bodysuit</s:type>
+    <s:vendor>Splitz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0099/4812/products/image_972d4f07-032c-4feb-bf93-7acd182b067a.jpg?v=1517094923"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Splitz<br>
+        <strong>Type: </strong>Bodysuit<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Velour Crushed Merlot Tank Bodysuit w/ Silver edges </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bodysuit</s:tag>
+    <s:variant>
+      <id>https://www.splitz.ca/products/423798243361</id>
+      <title>6</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku>sp1110cvcrmer06</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/423798243361</id>
+      <title>10</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku>sp1110ccrmer10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.splitz.ca/products/423798013985</id>
+    <published>2018-01-27T17:10:23-06:00</published>
+    <updated>2018-01-27T17:10:23-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.splitz.ca/products/velvet-red-tank-bodysuit"/>
+    <title>Velvet Red Tank Bodysuit</title>
+    <s:type>Bodysuit</s:type>
+    <s:vendor>Splitz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0099/4812/products/image_c8ecceba-9907-4a57-9b20-6c1019397244.jpg?v=1517094630"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Splitz<br>
+        <strong>Type: </strong>Bodysuit<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Velvet Red Tank Bodysuit w/silver edges</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bodysuit</s:tag>
+    <s:variant>
+      <id>https://www.splitz.ca/products/423798013985</id>
+      <title>6</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku>sp1110cvred06</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/423798013985</id>
+      <title>10</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku>sp1110credv10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.splitz.ca/products/423797882913</id>
+    <published>2018-01-27T16:59:58-06:00</published>
+    <updated>2018-01-27T16:59:58-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.splitz.ca/products/irish-green-velour-tank-bodysuit"/>
+    <title>Velvet Irish Green Tank Bodysuit</title>
+    <s:type></s:type>
+    <s:vendor>Splitz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0099/4812/products/image_aad22ac8-9a12-44d4-b6b8-77812f8fbc5b.jpg?v=1517094006"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Splitz<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Iris Green Velvet Tank Bodysuit w/silver edges</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.splitz.ca/products/423797882913</id>
+      <title>Size 4</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku>Sp1110cVGrn04</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/423797882913</id>
+      <title>8</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku>sp1110cvgrn</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/423797882913</id>
+      <title>10</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku>sp1110cvgrn10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.splitz.ca/products/551825539105</id>
+    <published>2017-08-07T10:37:47-05:00</published>
+    <updated>2017-08-07T10:37:47-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.splitz.ca/products/zeon-printed-bodysuit-w-black-mystique-edges"/>
+    <title>Zeon Printed bodysuit w/ black mystique edges (Fabric sample is on a doll bodysuit)</title>
+    <s:type>Bodysuit</s:type>
+    <s:vendor>Splitz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0099/4812/products/ZEON_large_6ceedf4f-b338-4432-bc95-fe2e57a3c902.JPG?v=1523926174"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Splitz<br>
+        <strong>Type: </strong>Bodysuit<br>
+        <strong>Price: </strong>
+            43.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Zeon open back tank bodysuit w/ black mystique edges for <u>children and adults.</u></p>
+<p>Fabric shown in the doll bodysuit photo.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bodysuit</s:tag>
+    <s:tag>Open Back</s:tag>
+    <s:tag>Prints</s:tag>
+    <s:variant>
+      <id>https://www.splitz.ca/products/551825539105</id>
+      <title>02</title>
+      <s:price currency="CAD">43.00</s:price>
+      <s:sku>OB Zeon 2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/551825539105</id>
+      <title>04</title>
+      <s:price currency="CAD">43.00</s:price>
+      <s:sku>OB Zeon 4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/551825539105</id>
+      <title>06L</title>
+      <s:price currency="CAD">43.00</s:price>
+      <s:sku>OB Zeon 6L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/551825539105</id>
+      <title>08</title>
+      <s:price currency="CAD">43.00</s:price>
+      <s:sku>OB Zeon 8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/551825539105</id>
+      <title>10</title>
+      <s:price currency="CAD">43.00</s:price>
+      <s:sku>OB Zeon 10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/551825539105</id>
+      <title>12</title>
+      <s:price currency="CAD">43.00</s:price>
+      <s:sku>OB Zeon 12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/551825539105</id>
+      <title>XS</title>
+      <s:price currency="CAD">43.00</s:price>
+      <s:sku>OB Zeon XS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/551825539105</id>
+      <title>S</title>
+      <s:price currency="CAD">43.00</s:price>
+      <s:sku>OB Zeon S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.splitz.ca/products/11025390535</id>
+    <published>2017-08-07T10:37:47-05:00</published>
+    <updated>2017-08-07T10:37:47-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.splitz.ca/products/tie-dye-open-back-printed-bodysuit-w-black-mystique-edges"/>
+    <title>Open Back - Tie Dye Printed bodysuit w/ black mystique edges</title>
+    <s:type>Bodysuit</s:type>
+    <s:vendor>Splitz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0099/4812/products/image_053e445e-f0ab-4c97-b14e-1c3a5f67b0e0.jpg?v=1523926033"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Splitz<br>
+        <strong>Type: </strong>Bodysuit<br>
+        <strong>Price: </strong>
+            43.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Tie dye open back tank bodysuit w/ black mystique edges. You may also like the matching Doll Bodysuit.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.splitz.ca/products/11025390535</id>
+      <title>4</title>
+      <s:price currency="CAD">43.00</s:price>
+      <s:sku>SP1110-04/BTIEDYE04</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/11025390535</id>
+      <title>6L</title>
+      <s:price currency="CAD">43.00</s:price>
+      <s:sku>SP1110-04/BTIEDYE6L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/11025390535</id>
+      <title>8</title>
+      <s:price currency="CAD">43.00</s:price>
+      <s:sku>SP1110-04/BTIEDYE08</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/11025390535</id>
+      <title>10</title>
+      <s:price currency="CAD">43.00</s:price>
+      <s:sku>SP1110-04/BTIEDYE10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/11025390535</id>
+      <title>12</title>
+      <s:price currency="CAD">43.00</s:price>
+      <s:sku>SP1110-04/BTIEDYE12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/11025390535</id>
+      <title>XS</title>
+      <s:price currency="CAD">43.00</s:price>
+      <s:sku>SP1110-04/BTIEDYEXS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/11025390535</id>
+      <title>S</title>
+      <s:price currency="CAD">43.00</s:price>
+      <s:sku>SP1110-04/BTIEDYES</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.splitz.ca/products/97474826</id>
+    <published>2017-01-29T21:50:00-06:00</published>
+    <updated>2017-01-29T21:50:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.splitz.ca/products/spanky"/>
+    <title>Spanky Black Mystique</title>
+    <s:type>Shorts</s:type>
+    <s:vendor>Splitz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Splitz<br>
+        <strong>Type: </strong>Shorts<br>
+        <strong>Price: </strong>
+            25.00 - 30.00
+            <a href="https://www.splitz.ca/products/spanky">(10 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gymnastics &amp; Volleyball Black Mystique shorts.   </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>gymnastics</s:tag>
+    <s:tag>shorts</s:tag>
+    <s:tag>spanky</s:tag>
+    <s:tag>volleyball</s:tag>
+    <s:variant>
+      <id>https://www.splitz.ca/products/97474826</id>
+      <title>4</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku>SP800604</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/97474826</id>
+      <title>6</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku>SP800606</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/97474826</id>
+      <title>8</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku>SP800608</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/97474826</id>
+      <title>10</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku>SP8006010</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/97474826</id>
+      <title>12</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku>SP8006012</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/97474826</id>
+      <title>XS</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>SP80060XS</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/97474826</id>
+      <title>S</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>SP80060S</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/97474826</id>
+      <title>M</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>SP80060M</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/97474826</id>
+      <title>L</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>SP80060L</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/97474826</id>
+      <title>XL</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>SP80060XL</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.splitz.ca/products/420065285</id>
+    <published>2015-03-01T16:10:00-06:00</published>
+    <updated>2015-03-01T16:10:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.splitz.ca/products/purple-metallic-squares-doll-bodysuit"/>
+    <title>Doll Bodysuit - Purple Metallic Squares</title>
+    <s:type>DOLL CLOTHES</s:type>
+    <s:vendor>Splitz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0099/4812/products/PINK_METALLIC_SQUARES_ON_BLACK.JPG?v=1425247924"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Splitz<br>
+        <strong>Type: </strong>DOLL CLOTHES<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Purple Metallic Squares on black bodysuit that fits 18 inch dolls.</p>
+<p>Only 5 left.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Doll Clothing</s:tag>
+    <s:tag>Metallic</s:tag>
+    <s:variant>
+      <id>https://www.splitz.ca/products/420065285</id>
+      <title>PINK METALLIC SQUARES</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku>D1110DPINKSQUARES</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.splitz.ca/products/420062401</id>
+    <published>2015-03-01T16:05:00-06:00</published>
+    <updated>2015-03-01T16:05:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.splitz.ca/products/snow-leopard-print-doll-bodysuit"/>
+    <title>Doll Bodysuit - Snow Leopard</title>
+    <s:type>DOLL CLOTHES</s:type>
+    <s:vendor>Splitz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0099/4812/products/SNOWLEOPARD.JPG?v=1425247605"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Splitz<br>
+        <strong>Type: </strong>DOLL CLOTHES<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Snow Leopard 18 inch doll bodysuit</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Doll Clothing</s:tag>
+    <s:variant>
+      <id>https://www.splitz.ca/products/420062401</id>
+      <title>SNOW LEOPARD</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku>D1110BSNOWLEOPARD</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.splitz.ca/products/420058161</id>
+    <published>2015-03-01T15:58:00-06:00</published>
+    <updated>2015-03-01T15:58:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.splitz.ca/products/tiedye-print-doll-bodysuit"/>
+    <title>Doll Bodysuit - Tie Dye</title>
+    <s:type>DOLL CLOTHES</s:type>
+    <s:vendor>Splitz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0099/4812/products/TIE_DYE.JPG?v=1425247131"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Splitz<br>
+        <strong>Type: </strong>DOLL CLOTHES<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Tie dye print bodysuit that fits 18 inch dolls. You might also like the matching practice suit.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Doll Clothing</s:tag>
+    <s:variant>
+      <id>https://www.splitz.ca/products/420058161</id>
+      <title>TIEDYEPRINT</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku>D1110BTIEDYE</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.splitz.ca/products/420057157</id>
+    <published>2015-03-01T15:56:00-06:00</published>
+    <updated>2015-03-01T15:56:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.splitz.ca/products/xoxo-print-doll-bodysuit"/>
+    <title>XOXO Doll Bodysuit</title>
+    <s:type>DOLL CLOTHES</s:type>
+    <s:vendor>Splitz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0099/4812/products/XOXO.JPG?v=1425247045"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Splitz<br>
+        <strong>Type: </strong>DOLL CLOTHES<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">XOXO print bodysuit that fits 18 inch dolls.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Doll Clothing</s:tag>
+    <s:variant>
+      <id>https://www.splitz.ca/products/420057157</id>
+      <title>XOXO PRINT</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku>D1110BXOXO</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.splitz.ca/products/420054869</id>
+    <published>2015-03-01T15:52:00-06:00</published>
+    <updated>2015-03-01T15:52:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.splitz.ca/products/red-w-white-ribbon-doll-bodysuit"/>
+    <title>Doll Bodysuit - Red w/ White Ribbon</title>
+    <s:type>DOLL CLOTHES</s:type>
+    <s:vendor>Splitz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0099/4812/products/RED_WITH_WHITE_RIBBON.JPG?v=1425246827"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Splitz<br>
+        <strong>Type: </strong>DOLL CLOTHES<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Red w/ white ribbon doll bodysuit for 18 inch dolls</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Doll Clothing</s:tag>
+    <s:variant>
+      <id>https://www.splitz.ca/products/420054869</id>
+      <title>RED W/ RIBBON</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku>D1110DREDRIBBON</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.splitz.ca/products/420053101</id>
+    <published>2015-03-01T15:49:00-06:00</published>
+    <updated>2015-03-01T15:49:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.splitz.ca/products/fuchsia-w-open-silver-heart-doll-bodysuit"/>
+    <title>Doll Bodysuit - Open Heart Fuchsia</title>
+    <s:type>DOLL CLOTHES</s:type>
+    <s:vendor>Splitz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0099/4812/products/FUCHIA_W_SILVER_OPEN_HEART.JPG?v=1425246680"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Splitz<br>
+        <strong>Type: </strong>DOLL CLOTHES<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Fuchsia w/ open silver heart doll bodysuit for 18 inch dolls</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Doll Clothing</s:tag>
+    <s:variant>
+      <id>https://www.splitz.ca/products/420053101</id>
+      <title>FUCHSIA W/ OPEN HEART</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku>D1110DFUCHSIAOPENHEART</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.splitz.ca/products/4032986183</id>
+    <published>2015-03-01T14:58:00-06:00</published>
+    <updated>2015-03-01T14:58:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.splitz.ca/products/red-lake-mat-cats-doll-bodysuit"/>
+    <title>Doll Bodysuit - Red Lake Matt Cats</title>
+    <s:type>DOLL CLOTHES</s:type>
+    <s:vendor>Splitz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0099/4812/products/redlalke_doll.JPG?v=1452823191"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Splitz<br>
+        <strong>Type: </strong>DOLL CLOTHES<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Red Lake Mat Cats Doll bodysuit that fits 18 inch dolls.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Doll Clothing</s:tag>
+    <s:variant>
+      <id>https://www.splitz.ca/products/4032986183</id>
+      <title>Red Lake Mat Cats</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku>D1110DREDLAKEMATCATS</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.splitz.ca/products/420020617</id>
+    <published>2015-03-01T14:58:00-06:00</published>
+    <updated>2015-03-01T14:58:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.splitz.ca/products/berry-fushia-w-overlap-heart-doll-bodysuit"/>
+    <title>Doll Bodysuit - Open Heart Berry Fuchsia</title>
+    <s:type>DOLL CLOTHES</s:type>
+    <s:vendor>Splitz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0099/4812/products/BERRY_FUCHIA_WITH_SILVER_OPVERLAP_HEART.JPG?v=1425243634"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Splitz<br>
+        <strong>Type: </strong>DOLL CLOTHES<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Berry Fuchsia w/ overlap heart bodysuit that fits 18 inch dolls.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Doll Clothing</s:tag>
+    <s:variant>
+      <id>https://www.splitz.ca/products/420020617</id>
+      <title>Berry Fushia Heart</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku>D1110DBERRYFUSHIAHEART</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.splitz.ca/products/420019365</id>
+    <published>2015-03-01T14:57:00-06:00</published>
+    <updated>2015-03-01T14:57:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.splitz.ca/products/aztec-doll-bodysuit"/>
+    <title>Doll Bodysuit - Aztec</title>
+    <s:type>DOLL CLOTHES</s:type>
+    <s:vendor>Splitz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0099/4812/products/AZTEC.JPG?v=1425243487"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Splitz<br>
+        <strong>Type: </strong>DOLL CLOTHES<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Aztec doll bodysuit that fits 18 inch dolls.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bodysuit</s:tag>
+    <s:tag>Doll Clothing</s:tag>
+    <s:tag>gymnastics</s:tag>
+    <s:variant>
+      <id>https://www.splitz.ca/products/420019365</id>
+      <title>Aztec</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku>D1110BAZTEC</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.splitz.ca/products/420018273</id>
+    <published>2015-03-01T14:55:00-06:00</published>
+    <updated>2015-03-01T14:55:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.splitz.ca/products/brown-leopard-doll-bodysuit"/>
+    <title>Doll Bodysuit - Leopard</title>
+    <s:type>DOLL CLOTHES</s:type>
+    <s:vendor>Splitz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0099/4812/products/BROWN_LEOPARD.JPG?v=1425243387"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Splitz<br>
+        <strong>Type: </strong>DOLL CLOTHES<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Brown Leopard doll bodysuit that fits 18 inch dolls.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Doll Clothing</s:tag>
+    <s:variant>
+      <id>https://www.splitz.ca/products/420018273</id>
+      <title>Brown Leopard Doll Bodysuit</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku>D1110BBRLEOPARD</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.splitz.ca/products/420006525</id>
+    <published>2015-03-01T14:35:00-06:00</published>
+    <updated>2015-03-01T14:35:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.splitz.ca/products/lilac-metallic-with-black-note-doll-bodysuit"/>
+    <title>Doll Bodysuit - Lilac w/ Black Note</title>
+    <s:type>DOLL CLOTHES</s:type>
+    <s:vendor>Splitz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0099/4812/products/LILAC_WITH_BLACK_NOTE.JPG?v=1425243256"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Splitz<br>
+        <strong>Type: </strong>DOLL CLOTHES<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Lilac Metallic w/ black note doll bodysuit that fits 18 inch dolls.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Doll Clothing</s:tag>
+    <s:tag>Metallic</s:tag>
+    <s:variant>
+      <id>https://www.splitz.ca/products/420006525</id>
+      <title>LILAC NOTE</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku>D1110DLILACNOTE</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.splitz.ca/products/406761137</id>
+    <published>2015-01-31T15:30:00-06:00</published>
+    <updated>2015-01-31T15:30:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.splitz.ca/products/annie-navy-w-red-tank-mystique-bodysuit"/>
+    <title>Annie Navy w/ Red Tank Mystique Bodysuit</title>
+    <s:type>Bodysuit</s:type>
+    <s:vendor>Splitz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0099/4812/products/annie_red_navyfront.JPG?v=1422739835"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Splitz<br>
+        <strong>Type: </strong>Bodysuit<br>
+        <strong>Price: </strong>
+            50.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Annie Navy w/ Red yoke appliqué tank bodysuit (scrunchie not included)</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Applique</s:tag>
+    <s:tag>Bodysuit</s:tag>
+    <s:tag>gymnastics</s:tag>
+    <s:tag>Metallic</s:tag>
+    <s:variant>
+      <id>https://www.splitz.ca/products/406761137</id>
+      <title>6</title>
+      <s:price currency="CAD">50.00</s:price>
+      <s:sku>SP1110/D0304YOKE06</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.splitz.ca/products/9528824711</id>
+    <published>2015-01-31T15:03:00-06:00</published>
+    <updated>2015-01-31T15:03:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.splitz.ca/products/doll-shorts"/>
+    <title>Doll Shorts</title>
+    <s:type>DOLL CLOTHES</s:type>
+    <s:vendor>Splitz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0099/4812/products/doll_black_shorts.jpg?v=1481402503"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Splitz<br>
+        <strong>Type: </strong>DOLL CLOTHES<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Doll Shorts in assorted metallic colours and printed fabrics. Please look at other doll bodysuits if you are unsure of short colours.  </p>
+<p>Doll bodysuit sold separately.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Doll Clothing</s:tag>
+    <s:variant>
+      <id>https://www.splitz.ca/products/9528824711</id>
+      <title>White</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku>D800-1</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/9528824711</id>
+      <title>Black</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku>D800-2</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/9528824711</id>
+      <title>Navy</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku>D800-3</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/9528824711</id>
+      <title>Red</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku>D800-4</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/9528824711</id>
+      <title>Pink</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku>D800-5</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/9528824711</id>
+      <title>Purple</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku>D800-6</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/9528824711</id>
+      <title>Light blue</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku>D800-7</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/9528824711</id>
+      <title>Berry Fuscia</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku>D800-8</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/9528824711</id>
+      <title>Lime</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku>D800-9</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/9528824711</id>
+      <title>Zeon Print</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku>D800-10</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/9528824711</id>
+      <title>Black Swirl</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku>D800-11</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/9528824711</id>
+      <title>Ocean Blue</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku>D800-12</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/9528824711</id>
+      <title>Silver</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku>D800-13</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.splitz.ca/products/406759677</id>
+    <published>2015-01-31T15:03:00-06:00</published>
+    <updated>2015-01-31T15:03:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.splitz.ca/products/doll-scrunchie"/>
+    <title>Doll Scrunchie</title>
+    <s:type>DOLL CLOTHES</s:type>
+    <s:vendor>Splitz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0099/4812/products/doll_scrunchie.JPG?v=1422738550"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Splitz<br>
+        <strong>Type: </strong>DOLL CLOTHES<br>
+        <strong>Price: </strong>
+            2.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Doll Scrunchie in assorted colours.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Doll Clothing</s:tag>
+    <s:variant>
+      <id>https://www.splitz.ca/products/406759677</id>
+      <title>White</title>
+      <s:price currency="CAD">2.50</s:price>
+      <s:sku>D100/D-1</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/406759677</id>
+      <title>Black</title>
+      <s:price currency="CAD">2.50</s:price>
+      <s:sku>D100/D-2</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/406759677</id>
+      <title>Navy</title>
+      <s:price currency="CAD">2.50</s:price>
+      <s:sku>D100/D-3</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/406759677</id>
+      <title>Red</title>
+      <s:price currency="CAD">2.50</s:price>
+      <s:sku>D100/D-4</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/406759677</id>
+      <title>Pink</title>
+      <s:price currency="CAD">2.50</s:price>
+      <s:sku>D100/D-5</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/406759677</id>
+      <title>Purple</title>
+      <s:price currency="CAD">2.50</s:price>
+      <s:sku>D100/D-6</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/406759677</id>
+      <title>Light blue</title>
+      <s:price currency="CAD">2.50</s:price>
+      <s:sku>D100/D-7</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/406759677</id>
+      <title>Berry Fuscia</title>
+      <s:price currency="CAD">2.50</s:price>
+      <s:sku>D100/D-8</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/406759677</id>
+      <title>Lime</title>
+      <s:price currency="CAD">2.50</s:price>
+      <s:sku>D100/D-9</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/406759677</id>
+      <title>Zeon Print</title>
+      <s:price currency="CAD">2.50</s:price>
+      <s:sku>D100/D-10</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/406759677</id>
+      <title>Black Swirl</title>
+      <s:price currency="CAD">2.50</s:price>
+      <s:sku>D100/D-11</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/406759677</id>
+      <title>Ocean Blue</title>
+      <s:price currency="CAD">2.50</s:price>
+      <s:sku>D100/D-12</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/406759677</id>
+      <title>Silver</title>
+      <s:price currency="CAD">2.50</s:price>
+      <s:sku>D100/D-13</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.splitz.ca/products/406757049</id>
+    <published>2015-01-31T14:44:00-06:00</published>
+    <updated>2015-01-31T14:44:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.splitz.ca/products/pink-w-black-ribbon-18-inch-doll-bodysuit-morden"/>
+    <title>Doll Bodysuit - Pink w/ Black Ribbon</title>
+    <s:type>DOLL CLOTHES</s:type>
+    <s:vendor>Splitz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0099/4812/products/pink_ribbon_retake.JPG?v=1422737211"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Splitz<br>
+        <strong>Type: </strong>DOLL CLOTHES<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Pink w/ black ribbon 18 inch doll bodysuit</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Doll Clothing</s:tag>
+    <s:variant>
+      <id>https://www.splitz.ca/products/406757049</id>
+      <title>PINK W/ BLACK RIBBON</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku>D1110DPINKBLKRIBBON</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.splitz.ca/products/406752273</id>
+    <published>2015-01-31T14:37:00-06:00</published>
+    <updated>2015-01-31T14:37:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.splitz.ca/products/ocean-blue-w-kips-star-18-inch-doll-bodysuit-springers-american-girl"/>
+    <title>Doll Bodysuit - Kips Ocean Blue</title>
+    <s:type>DOLL CLOTHES</s:type>
+    <s:vendor>Splitz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0099/4812/products/ocean_blue_kips_star.JPG?v=1422736807"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Splitz<br>
+        <strong>Type: </strong>DOLL CLOTHES<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Ocean blue w/ Kips star 18 inch doll bodysuit</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Applique</s:tag>
+    <s:tag>Bodysuit</s:tag>
+    <s:tag>Doll Clothing</s:tag>
+    <s:tag>gymnastics</s:tag>
+    <s:variant>
+      <id>https://www.splitz.ca/products/406752273</id>
+      <title>OCEAN BLUE W/ STAR</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku>D1110DOCEANSTAR</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+</feed>

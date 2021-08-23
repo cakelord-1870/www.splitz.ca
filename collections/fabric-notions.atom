@@ -1,0 +1,999 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.splitz.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.splitz.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.splitz.ca/collections/fabric-notions.atom"/>
+  <title>Splitz</title>
+  <updated>2020-04-12T21:20:16-05:00</updated>
+  <author>
+    <name>Splitz</name>
+  </author>
+  <entry>
+    <id>https://www.splitz.ca/products/4493479968814</id>
+    <published>2020-04-12T21:20:16-05:00</published>
+    <updated>2020-04-12T21:20:16-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.splitz.ca/products/navy-traditions-cotton-quilting-fabric-by-the-metre"/>
+    <title>Navy Traditions Cotton quilting fabric- by the metre</title>
+    <s:type>Fabric</s:type>
+    <s:vendor>Splitz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0099/4812/products/image_6702d6a1-5d7c-42c1-a091-f2a5e26a2a48.jpg?v=1586744585"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Splitz<br>
+        <strong>Type: </strong>Fabric<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Navy Traditions Cotton Quilting Fabric 115 cm wide, </span>100% Cotton.  Sold by the meter. </p>
+<p>Maximum 13 meters available.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fabric</s:tag>
+    <s:variant>
+      <id>https://www.splitz.ca/products/4493479968814</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku>WovenA Navy Traditions</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.splitz.ca/products/4492964921390</id>
+    <published>2020-04-12T15:00:36-05:00</published>
+    <updated>2020-04-12T15:00:36-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.splitz.ca/products/2-5-cm-knitted-elastic-white-by-the-meter"/>
+    <title>2&quot; (5 cm) Knitted Elastic- white, by the meter</title>
+    <s:type>Notions</s:type>
+    <s:vendor>Splitz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0099/4812/products/image_495e03db-b816-4fae-9455-2cc50878626d.jpg?v=1586721637"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Splitz<br>
+        <strong>Type: </strong>Notions<br>
+        <strong>Price: </strong>
+            1.50 - 14.00
+            <a href="https://www.splitz.ca/products/2-5-cm-knitted-elastic-white-by-the-meter">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>2" (5cm) wide Knitted Elastic- white, by the  1 meter, 5m, or 10m piece.</p>
+<p>This item is the bottom one in the picture.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fabric</s:tag>
+    <s:variant>
+      <id>https://www.splitz.ca/products/4492964921390</id>
+      <title>1m</title>
+      <s:price currency="CAD">1.50</s:price>
+      <s:sku>2&quot; knitted elastic-white-1m</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/4492964921390</id>
+      <title>5 m</title>
+      <s:price currency="CAD">7.50</s:price>
+      <s:sku>2&quot; knitted elastic-white-5m</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/4492964921390</id>
+      <title>10m</title>
+      <s:price currency="CAD">14.00</s:price>
+      <s:sku>2&quot; knitted elastic-white-10m</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.splitz.ca/products/4492957581358</id>
+    <published>2020-04-12T14:57:38-05:00</published>
+    <updated>2020-04-12T14:57:38-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.splitz.ca/products/1n-1-2-38mm-knitted-elastic-white-by-the-meter"/>
+    <title>1 1/2&quot; (38mm) Knitted Elastic- white, by the meter</title>
+    <s:type>Notions</s:type>
+    <s:vendor>Splitz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0099/4812/products/image_c28b8fd1-ac4d-4838-b86d-a1071539ebe8.jpg?v=1586721952"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Splitz<br>
+        <strong>Type: </strong>Notions<br>
+        <strong>Price: </strong>
+            1.25 - 11.00
+            <a href="https://www.splitz.ca/products/1n-1-2-38mm-knitted-elastic-white-by-the-meter">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>1 1/2" (38 mm) wide Knitted Elastic- white, by the  1 meter, 5m, or 10m piece.</p>
+<p>This item is the middle one in the picture.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fabric</s:tag>
+    <s:variant>
+      <id>https://www.splitz.ca/products/4492957581358</id>
+      <title>1m</title>
+      <s:price currency="CAD">1.25</s:price>
+      <s:sku>1 1/2&quot; knitted elastic-white-1m</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/4492957581358</id>
+      <title>5 m</title>
+      <s:price currency="CAD">6.00</s:price>
+      <s:sku>1 1/2&quot; knitted elastic-white-5m</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/4492957581358</id>
+      <title>10m</title>
+      <s:price currency="CAD">11.00</s:price>
+      <s:sku>1 1/2&quot; knitted elastic-white-10m</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.splitz.ca/products/4492896403502</id>
+    <published>2020-04-12T14:33:11-05:00</published>
+    <updated>2020-04-12T14:33:11-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.splitz.ca/products/10-25mm-knitted-elastic-white-by-the-meter"/>
+    <title>1&quot; (25mm) Knitted Elastic- white, by the meter</title>
+    <s:type>Notions</s:type>
+    <s:vendor>Splitz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0099/4812/products/image_82b36750-be57-485d-9754-ea69de591b4e.jpg?v=1586721360"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Splitz<br>
+        <strong>Type: </strong>Notions<br>
+        <strong>Price: </strong>
+            1.25 - 11.00
+            <a href="https://www.splitz.ca/products/10-25mm-knitted-elastic-white-by-the-meter">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>1" (25 mm) wide Knitted Elastic- white, by the  1 meter, 5m, or 10m piece.</p>
+<p>This item is the top one in the picture.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fabric</s:tag>
+    <s:variant>
+      <id>https://www.splitz.ca/products/4492896403502</id>
+      <title>1m</title>
+      <s:price currency="CAD">1.25</s:price>
+      <s:sku>1&quot; knitted elastic-white-1m</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/4492896403502</id>
+      <title>5 m</title>
+      <s:price currency="CAD">6.00</s:price>
+      <s:sku>1&quot; knitted elastic-white-5m</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/4492896403502</id>
+      <title>10m</title>
+      <s:price currency="CAD">11.00</s:price>
+      <s:sku>1&quot; knitted elastic-white-10m</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.splitz.ca/products/4492875399214</id>
+    <published>2020-04-12T14:25:02-05:00</published>
+    <updated>2020-04-12T14:25:02-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.splitz.ca/products/3-8-10mm-braided-elastic-natural-colour-by-the-meter"/>
+    <title>3/8 &quot; (10mm) Braided Elastic-Natural Colour by the meter</title>
+    <s:type>Notions</s:type>
+    <s:vendor>Splitz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0099/4812/products/image_63fcdb77-4078-4e33-bee1-42224cb8a56b.jpg?v=1586721218"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Splitz<br>
+        <strong>Type: </strong>Notions<br>
+        <strong>Price: </strong>
+            1.25 - 17.50
+            <a href="https://www.splitz.ca/products/3-8-10mm-braided-elastic-natural-colour-by-the-meter">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>3/8 " (10 mm) wide braided elastic- natural colour by the meter.</p>
+<p>This item is on the right side of the picture.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fabric</s:tag>
+    <s:variant>
+      <id>https://www.splitz.ca/products/4492875399214</id>
+      <title>1m</title>
+      <s:price currency="CAD">1.25</s:price>
+      <s:sku>10 mm braided natural-1m</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/4492875399214</id>
+      <title>5m</title>
+      <s:price currency="CAD">6.00</s:price>
+      <s:sku>10 mm braided natural-5m</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/4492875399214</id>
+      <title>10m</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku>10 mm braided natural-10m</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/4492875399214</id>
+      <title>20m</title>
+      <s:price currency="CAD">17.50</s:price>
+      <s:sku>10 mm braided natural-20m</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.splitz.ca/products/4492829818926</id>
+    <published>2020-04-12T13:59:55-05:00</published>
+    <updated>2020-04-12T13:59:55-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.splitz.ca/products/1-4-6mm-braided-elastic-natural-colour-by-the-meter"/>
+    <title>1/4 &quot; (6mm) Braided Elastic-Natural Colour by the meter</title>
+    <s:type>Notions</s:type>
+    <s:vendor>Splitz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0099/4812/products/image_dab78a7b-3b77-4fe7-a797-a43d3c10a8c1.jpg?v=1586718657"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Splitz<br>
+        <strong>Type: </strong>Notions<br>
+        <strong>Price: </strong>
+            1.00 - 15.00
+            <a href="https://www.splitz.ca/products/1-4-6mm-braided-elastic-natural-colour-by-the-meter">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>1/4" (6mm) wide braided elastic- natural colour by the meter.</p>
+<p>This item is on the left side of the picture.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Notions</s:tag>
+    <s:variant>
+      <id>https://www.splitz.ca/products/4492829818926</id>
+      <title>1m</title>
+      <s:price currency="CAD">1.00</s:price>
+      <s:sku>6 mm braided natural-1m</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/4492829818926</id>
+      <title>5m</title>
+      <s:price currency="CAD">4.50</s:price>
+      <s:sku>6 mm braided natural-5m</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/4492829818926</id>
+      <title>10m</title>
+      <s:price currency="CAD">8.00</s:price>
+      <s:sku>6 mm braided natural-10m</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/4492829818926</id>
+      <title>20m</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku>6 mm braided natural-20m</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.splitz.ca/products/4490653106222</id>
+    <published>2020-04-11T10:26:53-05:00</published>
+    <updated>2020-04-11T10:26:53-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.splitz.ca/products/navy-blue-skirt-weight-fabric-by-the-piece"/>
+    <title>Navy Blue Skirt Weight Fabric- by the piece</title>
+    <s:type>Fabric</s:type>
+    <s:vendor>Splitz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0099/4812/products/image_e230f9c3-0a2c-47c2-a60f-ad75896a23c6.jpg?v=1586619094"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Splitz<br>
+        <strong>Type: </strong>Fabric<br>
+        <strong>Price: </strong>
+            11.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Navy blue skirt weight 100% cotton fabric. 110cm wide, 100% cotton.  Sold by the piece.  1.15 m long.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fabric</s:tag>
+    <s:variant>
+      <id>https://www.splitz.ca/products/4490653106222</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.00</s:price>
+      <s:sku>WovenA Navyblueskirtpiece</s:sku>
+      <s:grams>280</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.splitz.ca/products/4490638196782</id>
+    <published>2020-04-11T09:57:09-05:00</published>
+    <updated>2020-04-11T09:57:09-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.splitz.ca/products/black-w-small-pink-flowers-quilting-fabric-by-the-piece"/>
+    <title>Black w/ small pink flowers Quilting Fabric- by the piece</title>
+    <s:type>Fabric</s:type>
+    <s:vendor>Splitz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0099/4812/products/image_168840dc-cc61-476d-bd98-00be8203e37b.jpg?v=1586617070"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Splitz<br>
+        <strong>Type: </strong>Fabric<br>
+        <strong>Price: </strong>
+            22.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Black w/ small pink flowers Quilting Fabric. 115cm wide, 100% cotton. Sold by the piece. Two pieces available. Each piece is 1.85 meters long. </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fabric</s:tag>
+    <s:variant>
+      <id>https://www.splitz.ca/products/4490638196782</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">22.50</s:price>
+      <s:sku>WovenA black w/ small flowers</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.splitz.ca/products/4489819717678</id>
+    <published>2020-04-10T17:38:49-05:00</published>
+    <updated>2020-04-10T17:38:49-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.splitz.ca/products/pink-w-white-floral-quilting-cotton-fabric"/>
+    <title>PInk w/ white mini floral quilting cotton fabric- by the meter</title>
+    <s:type>Fabric</s:type>
+    <s:vendor>Splitz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0099/4812/products/image_2482781b-035b-47d3-9a7e-1a00ea524a68.jpg?v=1586558350"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Splitz<br>
+        <strong>Type: </strong>Fabric<br>
+        <strong>Price: </strong>
+            15.00 - 30.00
+            <a href="https://www.splitz.ca/products/pink-w-white-floral-quilting-cotton-fabric">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Pink w/ white floral quilting cotton fabric. 115cm wide. 100% Cotton. Three pieces are available. A = 1.25 meters , B = 1.80 meters, C= 2.5 meters. </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fabric</s:tag>
+    <s:variant>
+      <id>https://www.splitz.ca/products/4489819717678</id>
+      <title>1.25 m</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku>WovenA pink w/ white flowers 1.25m</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/4489819717678</id>
+      <title>1.80 m</title>
+      <s:price currency="CAD">21.50</s:price>
+      <s:sku>WovenA pink w/ white flowers 1.8 m</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/4489819717678</id>
+      <title>2.50 m</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>WovenA pink w/ white flowers 2.5 m</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.splitz.ca/products/4489794060334</id>
+    <published>2020-04-10T17:15:59-05:00</published>
+    <updated>2020-04-10T17:15:59-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.splitz.ca/products/black-white-stripes-quilting-fabri"/>
+    <title>Black &amp; White Stripes quilting fabric- by the meter</title>
+    <s:type>Fabric</s:type>
+    <s:vendor>Splitz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0099/4812/products/image_9920a344-1001-4df9-ad45-ee0fb1099da3.jpg?v=1586556973"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Splitz<br>
+        <strong>Type: </strong>Fabric<br>
+        <strong>Price: </strong>
+            7.50 - 10.00
+            <a href="https://www.splitz.ca/products/black-white-stripes-quilting-fabri">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Black &amp; White Stripes Quilting Fabric. 115cm wide, 100% Cotton. Sold by the metre. </span></p>
+<p><span>Maximum 1.75 meters available.</span></p>
+<p> </p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fabric</s:tag>
+    <s:variant>
+      <id>https://www.splitz.ca/products/4489794060334</id>
+      <title>1 metre</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku>WovenA Black &amp; White Stripes-1</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/4489794060334</id>
+      <title>0.75 metres</title>
+      <s:price currency="CAD">7.50</s:price>
+      <s:sku>WovenA Black &amp; White Stripes-2</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.splitz.ca/products/4489772236846</id>
+    <published>2020-04-10T17:02:37-05:00</published>
+    <updated>2020-04-10T17:02:37-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.splitz.ca/products/fun-in-the-sun-quilting-fabric"/>
+    <title>Fun in the Sun quilting fabric- by the meter</title>
+    <s:type>Fabric</s:type>
+    <s:vendor>Splitz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0099/4812/products/image_198d3d01-3d77-4f73-81a8-f8cbb55ba3ba.jpg?v=1586556298"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Splitz<br>
+        <strong>Type: </strong>Fabric<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Fun in the Sun Quilting Fabric. 150cm wide, 65% Polyester 35% Cotton. Sold by the meter. </p>
+<p>Maximum 15 meters available.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fabric</s:tag>
+    <s:variant>
+      <id>https://www.splitz.ca/products/4489772236846</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku>WovenA Fun in rhe Sun</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.splitz.ca/products/4489763848238</id>
+    <published>2020-04-10T16:57:32-05:00</published>
+    <updated>2020-04-10T16:57:32-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.splitz.ca/products/startdust-offwhite-quilting-fabric"/>
+    <title>Startdust - Off-white w/ sparkles quilting fabric- by the meter</title>
+    <s:type>Fabric</s:type>
+    <s:vendor>Splitz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0099/4812/products/image_16161ce8-5b48-418d-bfb5-4c8e8cc93f60.jpg?v=1586555962"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Splitz<br>
+        <strong>Type: </strong>Fabric<br>
+        <strong>Price: </strong>
+            12.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Startdust - Offwhite Quilting Fabric with sparkles.  110cm wide, 100% Cotton. Fabric has slight naturally occurring variations in the tones throughout the bolt. Sold by the meter. </span></p>
+<p><span>Maximum 12 meters available.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fabric</s:tag>
+    <s:variant>
+      <id>https://www.splitz.ca/products/4489763848238</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.splitz.ca/products/4489751330862</id>
+    <published>2020-04-10T16:49:55-05:00</published>
+    <updated>2020-04-10T16:49:55-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.splitz.ca/products/trucks-quilting-cotton-fabric"/>
+    <title>Trucks quilting cotton fabric- by the meter</title>
+    <s:type>Fabric</s:type>
+    <s:vendor>Splitz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0099/4812/products/image_4f055304-3ab5-4b60-9501-17d06937d42b.jpg?v=1586555529"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Splitz<br>
+        <strong>Type: </strong>Fabric<br>
+        <strong>Price: </strong>
+            12.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Trucks<span class="Apple-converted-space"> </span>Quilting Cotton Fabric. 115cm wide, 100% Cotton. Sold by the meter. </span></p>
+<p><span>Maximum 6 meters available.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fabric</s:tag>
+    <s:variant>
+      <id>https://www.splitz.ca/products/4489751330862</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.50</s:price>
+      <s:sku>WovenA Trucks</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.splitz.ca/products/4489729212462</id>
+    <published>2020-04-10T16:36:33-05:00</published>
+    <updated>2020-04-10T16:36:33-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.splitz.ca/products/global-bears-cotton-quilting-fabric"/>
+    <title>Global Bears cotton quilting fabric- by the meter</title>
+    <s:type>Fabric</s:type>
+    <s:vendor>Splitz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0099/4812/products/image_f04515b7-57f7-4d14-9b31-c18ffaa628e1.jpg?v=1586554745"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Splitz<br>
+        <strong>Type: </strong>Fabric<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Global Bears Cotton Quilting Fabric.  115cm wide, 100% Cotton. Pre-shrunk. Sold by the meter. </span></p>
+<p><span>Maximum 8 meters available.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fabric</s:tag>
+    <s:variant>
+      <id>https://www.splitz.ca/products/4489729212462</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku>WovenA Global Bears</s:sku>
+      <s:grams>175</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.splitz.ca/products/4489716695086</id>
+    <published>2020-04-10T16:29:21-05:00</published>
+    <updated>2020-04-10T16:29:21-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.splitz.ca/products/flowerette-cotton-quilting-fabric"/>
+    <title>Flowerette Cotton quilting fabric- by the metre</title>
+    <s:type>Fabric</s:type>
+    <s:vendor>Splitz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0099/4812/products/image_067bcf4e-cf7c-4f93-b35d-44337412e9a7.jpg?v=1586554172"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Splitz<br>
+        <strong>Type: </strong>Fabric<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Flowerette Cotton Quilting Fabric 150cm wide, </span>100% Cotton.  Sold by the meter. </p>
+<p>Maximum 7 meters available.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fabric</s:tag>
+    <s:variant>
+      <id>https://www.splitz.ca/products/4489716695086</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku>WovenA Flowerette</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.splitz.ca/products/4489704669230</id>
+    <published>2020-04-10T16:22:16-05:00</published>
+    <updated>2020-04-10T16:22:16-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.splitz.ca/products/periwinkle-blue-quilting-cotton"/>
+    <title>Periwinkle Blue Quilting fabric w/ light blue leaves- by the meter</title>
+    <s:type>Fabric</s:type>
+    <s:vendor>Splitz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Splitz<br>
+        <strong>Type: </strong>Fabric<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Periwinkle Blue w/ light blue leaves Quilting Fabric. 110cm wide, </span>100% Cotton. </p>
+<p>Sold by the meter.<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fabric</s:tag>
+    <s:variant>
+      <id>https://www.splitz.ca/products/4489704669230</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku>WovenA Periwinkle Blue light leaves</s:sku>
+      <s:grams>175</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.splitz.ca/products/4489699983406</id>
+    <published>2020-04-10T16:19:34-05:00</published>
+    <updated>2020-04-10T16:19:34-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.splitz.ca/products/sewing-themed-quilting-fabric"/>
+    <title>Sewing Themed quilting fabric- by the meter</title>
+    <s:type>Fabric</s:type>
+    <s:vendor>Splitz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0099/4812/products/image_d6a0563b-9c36-4da9-9251-a75febe8794e.jpg?v=1586553587"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Splitz<br>
+        <strong>Type: </strong>Fabric<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Sewing themed quilting fabric. 115 cm wide, 100 % Cotton. Sold by the meter. </p>
+<p>Maximum 2 meters available.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fabric</s:tag>
+    <s:variant>
+      <id>https://www.splitz.ca/products/4489699983406</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku>WovenA Sewing themed</s:sku>
+      <s:grams>175</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.splitz.ca/products/4489689432110</id>
+    <published>2020-04-10T16:13:02-05:00</published>
+    <updated>2020-04-10T16:13:02-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.splitz.ca/products/lime-jungle-quilting-cotton"/>
+    <title>Lime Jungle quilting cotton- one meter</title>
+    <s:type>Fabric</s:type>
+    <s:vendor>Splitz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0099/4812/products/image_aa8055f9-6e91-4bb4-a228-a0dd038b7e5e.jpg?v=1586553195"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Splitz<br>
+        <strong>Type: </strong>Fabric<br>
+        <strong>Price: </strong>
+            12.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lime Jungle Quilting Fabric 132cm wide. 100% Cotton. Sold by the meter. </p>
+<p>Maximum 1 meter available.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fabric</s:tag>
+    <s:variant>
+      <id>https://www.splitz.ca/products/4489689432110</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.50</s:price>
+      <s:sku>WovenA Lime Jungle</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.splitz.ca/products/4489678946350</id>
+    <published>2020-04-10T16:06:36-05:00</published>
+    <updated>2020-04-10T16:06:36-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.splitz.ca/products/primary-colours-baby-puppy-quilting-fabric"/>
+    <title>Primary Colours Baby &amp; Puppy quilting fabric- by the meter</title>
+    <s:type>Fabric</s:type>
+    <s:vendor>Splitz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0099/4812/products/image_8e798a91-71e4-425d-bbd8-1c2ed25a9da3.jpg?v=1586552925"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Splitz<br>
+        <strong>Type: </strong>Fabric<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Primary Colours Baby &amp; Puppy quilting fabric. 100% Cotton ,150 cm wide. Sold by the meter.</span></p>
+<p><span>Maximum 2 meters available.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fabric</s:tag>
+    <s:variant>
+      <id>https://www.splitz.ca/products/4489678946350</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku>WovenA primary babies</s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.splitz.ca/products/4489674194990</id>
+    <published>2020-04-10T16:03:34-05:00</published>
+    <updated>2020-04-10T16:03:34-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.splitz.ca/products/white-with-small-purple-flowers-quilting-fabric"/>
+    <title>White w/ small purple flowers cotton quilting fabric- by the meter</title>
+    <s:type>Fabric</s:type>
+    <s:vendor>Splitz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0099/4812/products/image_370aba70-07b5-4ad1-82c6-22f395983787.jpg?v=1586552626"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Splitz<br>
+        <strong>Type: </strong>Fabric<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>White with small purple flowers quilting fabric. 90cm wide, 100% Cotton. Sold by the meter. </p>
+<p>Maximum 4 meters available.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fabric</s:tag>
+    <s:variant>
+      <id>https://www.splitz.ca/products/4489674194990</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku>WovenA White w/ Purple flowers</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.splitz.ca/products/4489658597422</id>
+    <published>2020-04-10T15:53:44-05:00</published>
+    <updated>2020-04-10T15:53:44-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.splitz.ca/products/midnight-navy-rosebud-quilting-cotton-fabrci"/>
+    <title>Midnight Navy Rosebud Quilting fabric- by the meter</title>
+    <s:type>Fabric</s:type>
+    <s:vendor>Splitz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0099/4812/products/image_20797196-5021-4672-ab5c-935d256969c7.jpg?v=1586552251"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Splitz<br>
+        <strong>Type: </strong>Fabric<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Midnight Navy Rosebud Quilting Fabric. 115cm wide, 100% Cotton. Sold by the meter. </p>
+<p>Maximum 3 meters available.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fabric</s:tag>
+    <s:variant>
+      <id>https://www.splitz.ca/products/4489658597422</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku>WovenA midnight Rosebud</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.splitz.ca/products/4489624944686</id>
+    <published>2020-04-10T15:41:42-05:00</published>
+    <updated>2020-04-10T15:41:42-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.splitz.ca/products/yellow-cherries"/>
+    <title>Yellow Cherries quilting fabric- by the meter</title>
+    <s:type></s:type>
+    <s:vendor>Splitz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0099/4812/products/image_bfea1eaa-fa2f-4903-a8e2-e44c8b73f5e4.jpg?v=1586551467"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Splitz<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Yellow Cherries woven quilting fabric. 110 cm wide, 65% polyester 35% cotton fabric. Sold by the meter. </span></p>
+<p><span>Maximum 3 meters available.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>fabric</s:tag>
+    <s:variant>
+      <id>https://www.splitz.ca/products/4489624944686</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku>WovenA yellow cherries</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.splitz.ca/products/4489613672494</id>
+    <published>2020-04-10T15:29:50-05:00</published>
+    <updated>2020-04-10T15:29:50-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.splitz.ca/products/mauve-cherries"/>
+    <title>Mauve Cherries quilting fabric- by the meter</title>
+    <s:type>Fabric</s:type>
+    <s:vendor>Splitz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0099/4812/products/image_3deb7691-ceec-4652-86ac-209cd3a3333e.jpg?v=1586550599"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Splitz<br>
+        <strong>Type: </strong>Fabric<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Mauve Cherries quilting fabric. 110 cm wide, 65% polyester 35% cotton. Sold by the meter. </p>
+<p>Maximum 2.75 meters available.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fabric</s:tag>
+    <s:variant>
+      <id>https://www.splitz.ca/products/4489613672494</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku>WovenA Mauve cherries</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+</feed>

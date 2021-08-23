@@ -1,0 +1,1051 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.splitz.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.splitz.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.splitz.ca/collections/clearance.atom"/>
+  <title>Splitz</title>
+  <updated>2018-01-27T17:19:23-06:00</updated>
+  <author>
+    <name>Splitz</name>
+  </author>
+  <entry>
+    <id>https://www.splitz.ca/products/423798374433</id>
+    <published>2018-01-27T17:19:23-06:00</published>
+    <updated>2018-01-27T17:19:23-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.splitz.ca/products/velvet-merlot-tank-bodysuit"/>
+    <title>Velvet Merlot Tank Bodysuit</title>
+    <s:type>Bodysuit</s:type>
+    <s:vendor>Splitz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0099/4812/products/image_a0077fae-59f7-4a31-bdf3-3f665b6daacc.jpg?v=1517095170"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Splitz<br>
+        <strong>Type: </strong>Bodysuit<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Velvet Merlot Tank Bodysuit w/silver edges</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bodysuit</s:tag>
+    <s:variant>
+      <id>https://www.splitz.ca/products/423798374433</id>
+      <title>6</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku>sp1110cvelmer06</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.splitz.ca/products/423798243361</id>
+    <published>2018-01-27T17:15:15-06:00</published>
+    <updated>2018-01-27T17:15:15-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.splitz.ca/products/velour-crushed-merlot-tank-bodysuit"/>
+    <title>Velour Crushed Merlot Tank Bodysuit</title>
+    <s:type>Bodysuit</s:type>
+    <s:vendor>Splitz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0099/4812/products/image_972d4f07-032c-4feb-bf93-7acd182b067a.jpg?v=1517094923"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Splitz<br>
+        <strong>Type: </strong>Bodysuit<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Velour Crushed Merlot Tank Bodysuit w/ Silver edges </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bodysuit</s:tag>
+    <s:variant>
+      <id>https://www.splitz.ca/products/423798243361</id>
+      <title>6</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku>sp1110cvcrmer06</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/423798243361</id>
+      <title>10</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku>sp1110ccrmer10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.splitz.ca/products/423798013985</id>
+    <published>2018-01-27T17:10:23-06:00</published>
+    <updated>2018-01-27T17:10:23-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.splitz.ca/products/velvet-red-tank-bodysuit"/>
+    <title>Velvet Red Tank Bodysuit</title>
+    <s:type>Bodysuit</s:type>
+    <s:vendor>Splitz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0099/4812/products/image_c8ecceba-9907-4a57-9b20-6c1019397244.jpg?v=1517094630"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Splitz<br>
+        <strong>Type: </strong>Bodysuit<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Velvet Red Tank Bodysuit w/silver edges</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bodysuit</s:tag>
+    <s:variant>
+      <id>https://www.splitz.ca/products/423798013985</id>
+      <title>6</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku>sp1110cvred06</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/423798013985</id>
+      <title>10</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku>sp1110credv10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.splitz.ca/products/423797882913</id>
+    <published>2018-01-27T16:59:58-06:00</published>
+    <updated>2018-01-27T16:59:58-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.splitz.ca/products/irish-green-velour-tank-bodysuit"/>
+    <title>Velvet Irish Green Tank Bodysuit</title>
+    <s:type></s:type>
+    <s:vendor>Splitz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0099/4812/products/image_aad22ac8-9a12-44d4-b6b8-77812f8fbc5b.jpg?v=1517094006"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Splitz<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Iris Green Velvet Tank Bodysuit w/silver edges</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.splitz.ca/products/423797882913</id>
+      <title>Size 4</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku>Sp1110cVGrn04</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/423797882913</id>
+      <title>8</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku>sp1110cvgrn</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/423797882913</id>
+      <title>10</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku>sp1110cvgrn10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.splitz.ca/products/97101430</id>
+    <published>2014-02-08T15:42:00-06:00</published>
+    <updated>2014-02-08T15:42:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.splitz.ca/products/velour-brown-katerina-1"/>
+    <title>Velour Brown Katerina</title>
+    <s:type>Bodysuit</s:type>
+    <s:vendor>Splitz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0099/4812/products/P1010418.jpg?v=1344556700"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Splitz<br>
+        <strong>Type: </strong>Bodysuit<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Brown Katerina Velour Tank Gymnastics Bodysuit with Black edge </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bodysuit</s:tag>
+    <s:tag>gymnastics</s:tag>
+    <s:tag>Velour</s:tag>
+    <s:variant>
+      <id>https://www.splitz.ca/products/97101430</id>
+      <title>4</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku>SP11000000AG4</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/97101430</id>
+      <title>S</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku>SP11000000AGS</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.splitz.ca/products/97257546</id>
+    <published>2013-12-17T19:40:00-06:00</published>
+    <updated>2013-12-17T19:40:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.splitz.ca/products/blue-matrix"/>
+    <title>Blue Matrix Tank Bodysuit- Sale</title>
+    <s:type>Bodysuit</s:type>
+    <s:vendor>Splitz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0099/4812/products/045.jpg?v=1344885710"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Splitz<br>
+        <strong>Type: </strong>Bodysuit<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Blue Matrix Tank Bodysuit with Black Edge </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bodysuit</s:tag>
+    <s:tag>Prints</s:tag>
+    <s:variant>
+      <id>https://www.splitz.ca/products/97257546</id>
+      <title>Size 4</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku>SP1110000072024</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.splitz.ca/products/96996219</id>
+    <published>2013-10-22T16:40:00-05:00</published>
+    <updated>2013-10-22T16:40:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.splitz.ca/products/orange-storm-with-black-edge"/>
+    <title>Velour Orange Storm</title>
+    <s:type>Bodysuit</s:type>
+    <s:vendor>Splitz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0099/4812/products/P1010398.jpg?v=1342554732"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Splitz<br>
+        <strong>Type: </strong>Bodysuit<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Velour Orange Storm Tank bodysuit with Black Edge</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bodysuit</s:tag>
+    <s:tag>gymnastics</s:tag>
+    <s:tag>Velour</s:tag>
+    <s:variant>
+      <id>https://www.splitz.ca/products/96996219</id>
+      <title>4</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku>SP11100000AH024</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.splitz.ca/products/96891714</id>
+    <published>2013-09-30T19:37:00-05:00</published>
+    <updated>2013-09-30T19:37:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.splitz.ca/products/tank-purple-plaid-bodysuit-5"/>
+    <title>Plaid Purple Tank Bodysuit</title>
+    <s:type>Bodysuit</s:type>
+    <s:vendor>Splitz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0099/4812/products/p1010364.jpg?v=1342457472"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Splitz<br>
+        <strong>Type: </strong>Bodysuit<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Purple plaid tank gymnastics bodysuit with matching edges</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bodysuit</s:tag>
+    <s:tag>gymnastics</s:tag>
+    <s:tag>Prints</s:tag>
+    <s:tag>Textured</s:tag>
+    <s:variant>
+      <id>https://www.splitz.ca/products/96891714</id>
+      <title>6</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku>SP1110000025256</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/96891714</id>
+      <title>XS</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku>SP111000002525XS</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.splitz.ca/products/97259200</id>
+    <published>2013-09-30T19:25:00-05:00</published>
+    <updated>2013-09-30T19:25:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.splitz.ca/products/blue-fireworks"/>
+    <title>Blue Fireworks Tank Bodysuit- Sale</title>
+    <s:type>Bodysuit</s:type>
+    <s:vendor>Splitz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0099/4812/products/P1010402.jpg?v=1344554972"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Splitz<br>
+        <strong>Type: </strong>Bodysuit<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Blue Fireworks Tank Bodysuit with Black Edge </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Prints</s:tag>
+    <s:variant>
+      <id>https://www.splitz.ca/products/97259200</id>
+      <title>Size 4</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku>SP111000000E094</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.splitz.ca/products/153763353</id>
+    <published>2013-08-27T17:43:00-05:00</published>
+    <updated>2013-08-27T17:43:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.splitz.ca/products/spaced-geometric-3b-olive-mystique-tank-bodysuit"/>
+    <title>Geometric 3B Olive Mystique Tank Bodysuit</title>
+    <s:type>Bodysuit</s:type>
+    <s:vendor>Splitz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0099/4812/products/2008-12-31_23.00.00-154.jpg?v=1377643825"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Splitz<br>
+        <strong>Type: </strong>Bodysuit<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Geometric 3B Olive Mystique Tank Bodysuit</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Applique</s:tag>
+    <s:tag>Bodysuit</s:tag>
+    <s:tag>gymnastics</s:tag>
+    <s:tag>Metallic</s:tag>
+    <s:variant>
+      <id>https://www.splitz.ca/products/153763353</id>
+      <title>12</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku>SP111000008274SGPB12</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.splitz.ca/products/153760187</id>
+    <published>2013-08-27T17:24:00-05:00</published>
+    <updated>2013-08-27T17:24:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.splitz.ca/products/canada-12-olive-mystique-tank-bodysuit"/>
+    <title>Canada 12 Olive Mystique Tank Bodysuit- Sale</title>
+    <s:type>Bodysuit</s:type>
+    <s:vendor>Splitz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0099/4812/products/2008-12-31_23.00.00-139.jpg?v=1377642262"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Splitz<br>
+        <strong>Type: </strong>Bodysuit<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Canada 12 Olive Mystique Tank Bodysuit</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Applique</s:tag>
+    <s:tag>gymnastics</s:tag>
+    <s:tag>Metallic</s:tag>
+    <s:variant>
+      <id>https://www.splitz.ca/products/153760187</id>
+      <title>12</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku>SP111000008274121212</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.splitz.ca/products/153715491</id>
+    <published>2013-08-27T13:46:00-05:00</published>
+    <updated>2013-08-27T13:46:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.splitz.ca/products/2-vines-on-sweetheart-neckline-b-olive-mystique-tank-bodysuit"/>
+    <title>Sweetheart Neckline 2 Vines B Olive Mystique Tank Bodysuit</title>
+    <s:type>Bodysuit</s:type>
+    <s:vendor>Splitz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0099/4812/products/P1060806.jpg?v=1377629680"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Splitz<br>
+        <strong>Type: </strong>Bodysuit<br>
+        <strong>Price: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">2 Vines On Sweetheart Neckline B Olive Mystique Tank Bodysuit</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Applique</s:tag>
+    <s:tag>Bodysuit</s:tag>
+    <s:tag>gymnastics</s:tag>
+    <s:tag>Metallic</s:tag>
+    <s:variant>
+      <id>https://www.splitz.ca/products/153715491</id>
+      <title>12</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>SP1110000082742VSB12</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.splitz.ca/products/153122045</id>
+    <published>2013-08-23T14:40:00-05:00</published>
+    <updated>2013-08-23T14:40:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.splitz.ca/products/red-texture-open-back-tank-bodysuit"/>
+    <title>Open Back - Texture - Red Tank Bodysuit</title>
+    <s:type>Bodysuit</s:type>
+    <s:vendor>Splitz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0099/4812/products/2008-12-31_23.00.00-50_048f7598-88d4-4947-92b4-6793cc9708fe.jpg?v=1377286869"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Splitz<br>
+        <strong>Type: </strong>Bodysuit<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Red Texture Open Back Tank Bodysuit</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bodysuit</s:tag>
+    <s:tag>gymnastics</s:tag>
+    <s:tag>leotard</s:tag>
+    <s:tag>Open Back</s:tag>
+    <s:tag>Textured</s:tag>
+    <s:variant>
+      <id>https://www.splitz.ca/products/153122045</id>
+      <title>XS</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku>SP111000002390PFPBXS</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.splitz.ca/products/152784523</id>
+    <published>2013-08-21T15:46:00-05:00</published>
+    <updated>2013-08-21T15:46:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.splitz.ca/products/canada-3-white-swirl-tank-bodysuit"/>
+    <title>Canada 3 White Swirl Tank Bodysuit- Sale</title>
+    <s:type>Bodysuit</s:type>
+    <s:vendor>Splitz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0099/4812/products/2008-12-31_23.00.00-65.jpg?v=1377117989"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Splitz<br>
+        <strong>Type: </strong>Bodysuit<br>
+        <strong>Price: </strong>
+            40.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Canada 3 White Swirl Tank Bodysuit</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Applique</s:tag>
+    <s:tag>gymnastics</s:tag>
+    <s:tag>Metallic</s:tag>
+    <s:variant>
+      <id>https://www.splitz.ca/products/152784523</id>
+      <title>12</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>SP111000001563C3C312</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.splitz.ca/products/152777711</id>
+    <published>2013-08-21T15:32:00-05:00</published>
+    <updated>2013-08-21T15:32:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.splitz.ca/products/morden-4-olive-mystique-tank-bodysuit"/>
+    <title>Morden 4 Olive Mystique Tank Bodysuit</title>
+    <s:type>Bodysuit</s:type>
+    <s:vendor>Splitz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0099/4812/products/2008-12-31_23.00.00-12_4ff683b7-5191-4263-9f68-b7dc0f309c48.jpg?v=1377117173"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Splitz<br>
+        <strong>Type: </strong>Bodysuit<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Morden 4 Olive Mystique Tank Bodysuit</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Applique</s:tag>
+    <s:tag>gymnastics</s:tag>
+    <s:tag>Metallic</s:tag>
+    <s:variant>
+      <id>https://www.splitz.ca/products/152777711</id>
+      <title>10</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku>SP111000008260M4M410</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.splitz.ca/products/152763007</id>
+    <published>2013-08-21T14:30:00-05:00</published>
+    <updated>2013-08-21T14:30:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.splitz.ca/products/frost-5-spray-olive-mystique-tank-bodysuit"/>
+    <title>Frost 5 Spray Olive Mystique Tank Bodysuit</title>
+    <s:type>Bodysuit</s:type>
+    <s:vendor>Splitz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0099/4812/products/2008-12-31_23.00.00-26.jpg?v=1377113448"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Splitz<br>
+        <strong>Type: </strong>Bodysuit<br>
+        <strong>Price: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Frost 5 Spray Olive Mystique Tank Bodysuit</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Applique</s:tag>
+    <s:tag>gymnastics</s:tag>
+    <s:tag>Metallic</s:tag>
+    <s:variant>
+      <id>https://www.splitz.ca/products/152763007</id>
+      <title>10</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>SP111000008260F5F310</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.splitz.ca/products/151307971</id>
+    <published>2013-08-12T16:02:00-05:00</published>
+    <updated>2013-08-12T16:02:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.splitz.ca/products/3b-linked-geometric-pink-mystique-tank-bodysuit"/>
+    <title>Geometric Pink 3B Linked Mystique Tank Bodysuit</title>
+    <s:type>Bodysuit</s:type>
+    <s:vendor>Splitz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0099/4812/products/P1060546.jpg?v=1376341331"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Splitz<br>
+        <strong>Type: </strong>Bodysuit<br>
+        <strong>Price: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>3B Linked Geometric Pink Mystique Tank Bodysuit </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Applique</s:tag>
+    <s:tag>Bodysuit</s:tag>
+    <s:tag>gymnastics</s:tag>
+    <s:tag>leotard</s:tag>
+    <s:variant>
+      <id>https://www.splitz.ca/products/151307971</id>
+      <title>8</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>SP1110000084783B3B08</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.splitz.ca/products/97240458</id>
+    <published>2012-09-23T14:07:00-05:00</published>
+    <updated>2012-09-23T14:07:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.splitz.ca/products/lime-geo"/>
+    <title>Lime Geo Tank Bodysuit</title>
+    <s:type>Bodysuit</s:type>
+    <s:vendor>Splitz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0099/4812/products/2008-12-31_23.00.00-5.jpg?v=1377285607"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Splitz<br>
+        <strong>Type: </strong>Bodysuit<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lime Geo Tank Bodysuit with Lime Edge</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bodysuit</s:tag>
+    <s:tag>gymnastics</s:tag>
+    <s:tag>leotard</s:tag>
+    <s:tag>Prints</s:tag>
+    <s:variant>
+      <id>https://www.splitz.ca/products/97240458</id>
+      <title>4</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku>SP1110000046074</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.splitz.ca/products/96998265</id>
+    <published>2012-09-23T14:03:00-05:00</published>
+    <updated>2012-09-23T14:03:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.splitz.ca/products/lime-zig-zag-with-navy-edge"/>
+    <title>Lime Zig Zag with Navy edge</title>
+    <s:type>Bodysuit</s:type>
+    <s:vendor>Splitz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0099/4812/products/2008-12-31_23.00.00-24_8b4c6a0c-712c-4f0a-9e63-ccd081128e61.jpg?v=1377285918"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Splitz<br>
+        <strong>Type: </strong>Bodysuit<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> Lime Zig Zag tank bodysuit with Navy edge</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bodysuit</s:tag>
+    <s:tag>gymnastics</s:tag>
+    <s:tag>leotard</s:tag>
+    <s:tag>Prints</s:tag>
+    <s:variant>
+      <id>https://www.splitz.ca/products/96998265</id>
+      <title>4</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku>SP1110000077114</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.splitz.ca/products/97102144</id>
+    <published>2012-08-13T16:42:00-05:00</published>
+    <updated>2012-08-13T16:42:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.splitz.ca/products/red-lava"/>
+    <title>Red Lava Tank Bodysuit- Sale</title>
+    <s:type>Bodysuit</s:type>
+    <s:vendor>Splitz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0099/4812/products/054.jpg?v=1344894220"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Splitz<br>
+        <strong>Type: </strong>Bodysuit<br>
+        <strong>Price: </strong>
+            25.00 - 30.00
+            <a href="https://www.splitz.ca/products/red-lava">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Red Lava Tank Gymnastics Bodysuit with Black Edge </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bodysuit</s:tag>
+    <s:tag>gymnastics</s:tag>
+    <s:tag>Prints</s:tag>
+    <s:variant>
+      <id>https://www.splitz.ca/products/97102144</id>
+      <title>Size 2</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku>SP11100000420202</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/97102144</id>
+      <title>S</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>SP111000004202S</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.splitz.ca/products/97092620</id>
+    <published>2012-08-13T16:41:00-05:00</published>
+    <updated>2012-08-13T16:41:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.splitz.ca/products/red-dot"/>
+    <title>Red Dot Tank Bodysuit</title>
+    <s:type>Bodysuit</s:type>
+    <s:vendor>Splitz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0099/4812/products/050.jpg?v=1344894128"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Splitz<br>
+        <strong>Type: </strong>Bodysuit<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Red Dot Tank Gymnastics bodysuit with White edge </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bodysuit</s:tag>
+    <s:tag>gymnastics</s:tag>
+    <s:tag>Prints</s:tag>
+    <s:variant>
+      <id>https://www.splitz.ca/products/97092620</id>
+      <title>6</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku>SP1110REDDOT6</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/97092620</id>
+      <title>S</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku>SP111000003003S</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.splitz.ca/products/96998653</id>
+    <published>2012-08-13T16:24:00-05:00</published>
+    <updated>2012-08-13T16:24:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.splitz.ca/products/pastel-clover-with-white-edge"/>
+    <title>Square Neck - Pastel Pink Clover Tank Bodysuit</title>
+    <s:type>Bodysuit</s:type>
+    <s:vendor>Splitz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0099/4812/products/pink_clover.jpg?v=1422728035"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Splitz<br>
+        <strong>Type: </strong>Bodysuit<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Pastel Clover square neck tank bodysuit with white edge </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bodysuit</s:tag>
+    <s:tag>gymnastics</s:tag>
+    <s:tag>Prints</s:tag>
+    <s:variant>
+      <id>https://www.splitz.ca/products/96998653</id>
+      <title>Size 8</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku>SP1110000058036</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.splitz.ca/products/97091380</id>
+    <published>2012-08-13T16:16:00-05:00</published>
+    <updated>2012-08-13T16:16:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.splitz.ca/products/open-back-teal-texture"/>
+    <title>Open Back - Texture- Teal Tank Bodysuit</title>
+    <s:type>Bodysuit</s:type>
+    <s:vendor>Splitz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0099/4812/products/83.jpg?v=1344892640"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Splitz<br>
+        <strong>Type: </strong>Bodysuit<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Open Back Teal texture tank Gymnastics Bodysuit with Black edge </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bodysuit</s:tag>
+    <s:tag>Open Back</s:tag>
+    <s:tag>Textured</s:tag>
+    <s:variant>
+      <id>https://www.splitz.ca/products/97091380</id>
+      <title>S</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku>SP111000042202S</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.splitz.ca/products/96998425</id>
+    <published>2012-08-13T15:55:00-05:00</published>
+    <updated>2012-08-13T15:55:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.splitz.ca/products/brown-black-dots-open-back-with-black-edge"/>
+    <title>Open Back - Brown/Black Dots</title>
+    <s:type>Bodysuit</s:type>
+    <s:vendor>Splitz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0099/4812/products/056.jpg?v=1344891421"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Splitz<br>
+        <strong>Type: </strong>Bodysuit<br>
+        <strong>Price: </strong>
+            21.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Brown/Black Dots Gymnastics Tank Bodysuit , Open Back and Black Edge</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Open Back</s:tag>
+    <s:tag>Prints</s:tag>
+    <s:variant>
+      <id>https://www.splitz.ca/products/96998425</id>
+      <title>Size 8</title>
+      <s:price currency="CAD">21.00</s:price>
+      <s:sku>SP1110000433028</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.splitz.ca/products/97260972</id>
+    <published>2012-08-13T15:53:00-05:00</published>
+    <updated>2012-08-13T15:53:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.splitz.ca/products/open-back-blue-palm-leaf"/>
+    <title>Open Back -  Blue Palms</title>
+    <s:type>Bodysuit</s:type>
+    <s:vendor>Splitz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0099/4812/products/034.jpg?v=1344891220"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Splitz<br>
+        <strong>Type: </strong>Bodysuit<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Open Back Blue Palm Leaf Tank Gymnastics Bodysuit with White Edge</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Open Back</s:tag>
+    <s:tag>Prints</s:tag>
+    <s:variant>
+      <id>https://www.splitz.ca/products/97260972</id>
+      <title>Size 6</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku>SP1110000476036</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/97260972</id>
+      <title>8</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku>SP1110000476038</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.splitz.ca/products/97260972</id>
+      <title>12</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku>SP11100004760312</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+</feed>

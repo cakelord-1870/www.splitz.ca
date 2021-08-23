@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.splitz.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.splitz.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.splitz.ca/collections/massage-sheets.atom"/>
+  <title>Splitz</title>
+  <updated>2018-01-04T14:11:50-06:00</updated>
+  <author>
+    <name>Splitz</name>
+  </author>
+  <entry>
+    <id>https://www.splitz.ca/products/415934742561</id>
+    <published>2018-01-04T14:11:50-06:00</published>
+    <updated>2018-01-04T14:11:50-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.splitz.ca/products/massage-fitted-face-cradle-cover"/>
+    <title>Massage Fitted Face Cradle Cover</title>
+    <s:type>Massage Products</s:type>
+    <s:vendor>Splitz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0099/4812/products/image_32de760d-3304-45bb-8ee3-5e6557839744.jpg?v=1515096721"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Splitz<br>
+        <strong>Type: </strong>Massage Products<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Massage Fitted Face Cradle Cover. </p>
+<p>Made of high thread count 100% White Cotton. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.splitz.ca/products/415934742561</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku>NN335</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.splitz.ca/products/415929991201</id>
+    <published>2018-01-04T13:47:25-06:00</published>
+    <updated>2018-01-04T13:47:25-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.splitz.ca/products/massage-flat-sheet"/>
+    <title>Massage Flat Table Sheet</title>
+    <s:type>Massage Products</s:type>
+    <s:vendor>Splitz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0099/4812/products/image_d92c26e5-a85d-41ef-bee4-d08db3347f49.jpg?v=1515095257"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Splitz<br>
+        <strong>Type: </strong>Massage Products<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Massage flat table sheet measuring 42" X 80" (107cm X 2m)</p>
+<meta charset="utf-8">
+<p><span>Made of high thread count 100% White Cotton. </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.splitz.ca/products/415929991201</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku>NN330</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.splitz.ca/products/415929532449</id>
+    <published>2018-01-04T13:43:36-06:00</published>
+    <updated>2018-01-04T13:43:36-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.splitz.ca/products/massage-fitted-sheet"/>
+    <title>Massage Fitted Table Sheet</title>
+    <s:type>Massage Products</s:type>
+    <s:vendor>Splitz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0099/4812/products/image_a9f09953-d5b6-4d2e-a46b-dfbefc289e2b.jpg?v=1515096376"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Splitz<br>
+        <strong>Type: </strong>Massage Products<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Massage Fitted Table Sheet that fits tables measuring approximately 75" X 26" X 5"(1.9m X 66cm X 12.7 cm).</p>
+<p>Made of high thread count 100% White Cotton. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.splitz.ca/products/415929532449</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku>NN335</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.splitz.ca/products/415928778785</id>
+    <published>2018-01-04T13:38:23-06:00</published>
+    <updated>2018-01-04T13:38:23-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.splitz.ca/products/massage-flat-face-cloth"/>
+    <title>Massage Flat Face Cloth - Set of 10</title>
+    <s:type>Massage Products</s:type>
+    <s:vendor>Splitz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0099/4812/products/image_69cf43d9-baf8-4ef3-9391-3b83a7317ddc.jpg?v=1515094729"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Splitz<br>
+        <strong>Type: </strong>Massage Products<br>
+        <strong>Price: </strong>
+            45.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Set of 10-  Massage Flat Face Cloths measuring 24" X 30" (61cm X 76 cm ).</p>
+<meta charset="utf-8">
+<p><span>Made of high thread count 100% White Cotton. </span></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.splitz.ca/products/415928778785</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku>NN332</s:sku>
+      <s:grams>800</s:grams>
+    </s:variant>
+  </entry>
+</feed>
